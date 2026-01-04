@@ -1,0 +1,333 @@
+"use client";
+import Link from 'next/link';
+import Image from "next/image";
+// components/ModernContentStyle2.jsx
+export default function Outpage() {
+  const locations = [
+    {
+      name: "Aerocity",
+      icon: "✈️",
+      vibe: "Business-hub buzz, 5-star corridors, 24×7 flight schedules.",
+      convenience: "10-minute approval, direct-to-room key-card entry, no lobby questions."
+    },
+    {
+      name: "Connaught Place",
+      icon: "🏙️",
+      vibe: "Heritage colonnades, rooftop bars, metro nexus.",
+      convenience: "Meet at parked car or metro exit-4; walk-up heritage suites available."
+    },
+    {
+      name: "South Delhi",
+      icon: "🏡",
+      vibe: "Leafy avenues, farmhouse parties, Khan Market cafés.",
+      convenience: "Discreet bungalow gates, GPS-pinned chauffeur drop, late-night check-ins welcomed."
+    },
+    {
+      name: "Noida",
+      icon: "🏢",
+      vibe: "Tech parks, mall culture, film-city nights.",
+      convenience: "Sector-18 metro pickup, expressway-ready cabs, prepaid room blocks."
+    },
+    {
+      name: "Gurgaon",
+      icon: "🌃",
+      vibe: "CyberHub neon, golf-course villas, startup rooftops.",
+      convenience: "FastTAG express lanes, corporate apartment master-keys, 30-min city-wide SLA."
+    }
+  ];
+  const locations1 = [
+  "Bhopal", "Ludhiana", "Delhi", "Varanasi",
+  "Jamshedpur", "Hyderabad", "Chennai", "Rishikesh",
+  "Raipur", "Ghaziabad", "Amritsar", "Surat",
+  "Manali", "Dehradun", "Jammu", "Noida",
+  "Ambala", "Zirakpur", "Allahabad", "Jodhpur",
+  "Kochi", "Lucknow", "Haridwar", "Karnal",
+  "Chandigarh", "Guwahati", "Jaipur", "Indore",
+  "Navi Mumbai", "Ajmer", "Ranchi", "Patna",
+  "Visakhapatnam", "Vadodara", "Mohali", "Daman",
+  "Shimla", "Gurgaon", "Faridabad", "Goa",
+  "Pune", "Dwarka", "Jalandhar"
+];
+const faqs = [
+    {
+      q: "Is the service discreet?",
+      a: "Absolutely—companions arrive in plain Uber or private cabs, use your chosen alias at reception, and leave no paper or digital trail."
+    },
+    {
+      q: "How do I book?",
+      a: "Browse profiles, tap the WhatsApp icon, send name + preferred time & location. We confirm availability within 5 minutes and share live tracking."
+    },
+    {
+      q: "Do you provide same-day service?",
+      a: "Yes, 90 % of bookings are fulfilled within 45 minutes across Delhi-NCR; peak hours may stretch to 75 minutes—always communicated upfront."
+    },
+    {
+      q: "Which areas of Delhi are covered?",
+      a: "Aerocity, Connaught Place, South Delhi, Gurgaon, Noida, Dwarka, Nehru Place and 30+ micro-markets—no travel surcharge inside NCR."
+    },
+    {
+      q: "Is privacy guaranteed?",
+      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+    },
+    {
+      q: "Is privacy guaranteed?",
+      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+    },
+    {
+      q: "Is privacy guaranteed?",
+      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+    },
+    {
+      q: "Is privacy guaranteed?",
+      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+    },
+  ];
+  const staff = [
+    { name: 'Ana.in', role: 'Founder', img: '/images/image1.webp' },
+    { name: 'Nisha', role: 'Co-Founder', img: '/images/Watch bright.webp' },
+    { name: 'Somya', role: 'Head of Design', img: '/images/Wantto.webp' },
+    { name: 'Zaira', role: 'Lead Developer', img: '/images/Today’s heat feed.webp' },
+    { name: 'Sakshi', role: 'Marketing Lead', img: '/images/download (36).webp' },
+  ];
+  {/* End Sample content data */}
+  const cities = [
+{ name: 'Noida', img: '/Webpimages/hotel3.webp' },
+{ name: 'Gurgaon', img: '/Webpimages/lajpatnagahotel.webp' },
+{ name: 'Faridabaad', img: '/Webpimages/RoseateHouse.webp' },
+{ name: 'Mahipalpur', img: '/Webpimages/paschimvihar.webp' },
+{ name: 'Aerocity', img: '/Webpimages/JwMarriott_CP.webp' },
+{ name: 'Connaught Place', img: '/Webpimages/Andazhat.webp' },
+{ name: 'New Friends Colony', img: '/Webpimages/holidayIn_CP.webp' },
+{ name: 'Dwarka', img: '/Webpimages/tajmahalhotel_lajpatnagar.webp' },
+{ name: 'Paharganj', img: '/Webpimages/paschimvihar.webp' },
+{ name: 'Vasant kunj', img: '/Webpimages/hotel2.webp' },
+{ name: 'Lajpat Nagar ', img: '/Webpimages/pullmanAerocity.webp' },
+{ name: 'Kalkaji', img: '/Webpimages/jwmarriott.webp' },
+]
+  return (
+    <>
+    <section
+      className="relative text-white bg-cover bg-center"
+      style={{
+        backgroundImage:
+          "url('/images/ph_ miller_millka.webp')",
+      }}
+    >
+      {/* Dark + gradient overlay */}
+      {/* <div className="absolute inset-0 bg-gradient-to-br from-rose-500/80 via-fuchsia-600/80 to-indigo-700/80" /> */}
+      <div className="absolute inset-0 bg-black/40" />
+    
+      <div className="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
+        <h1 className="text-4xl md:text-5xl font-black tracking-tight mb-6">
+          Delhi Escorts – Premium & Trusted Escort Services in Delhi
+        </h1>
+    
+        <p className="text-lg md:text-xl leading-relaxed max-w-3xl mx-auto">
+          Delhi ek vibrant aur fast-moving city hai jahan log luxury, comfort aur
+          companionship ko value karte hain. Hum Delhi escort service ke through
+          aapko ek safe, private aur high-quality experience provide karte hain.
+          Chahe aap business trip par ho, solo traveler ho ya simply kisi special
+          companion ki talash me ho, humari escort services aapki expectations ko
+          samajh kar design ki gayi hain. Discretion aur privacy humari priority hai.
+        </p>
+    
+        <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
+          <Link
+            href="#profiles"
+            className="px-8 py-3 rounded-full bg-white text-fuchsia-700 font-bold hover:bg-opacity-90 transition"
+          >
+            Browse Profiles
+          </Link>
+          <Link
+            href="#contact"
+            className="px-8 py-3 rounded-full border-2 border-white text-white font-bold hover:bg-white hover:text-fuchsia-700 transition"
+          >
+            Book Now
+          </Link>
+        </div>
+      </div>
+    </section>
+    <section className="py-20 bg-neutral-50">
+      <div className="container mx-auto px-6 max-w-7xl">
+        <h2 className="text-4xl md:text-5xl font-extrabold text-neutral-900 mb-4 text-center">
+          Delhi-NCR Coverage Map
+        </h2>
+        <p className="text-center text-neutral-600 mb-12 max-w-3xl mx-auto">
+          Wherever you check-in, we check-point: verified arrival in under 45 minutes—no extra travel fee.
+        </p>
+
+        <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-6">
+          {locations.map((loc) => (
+            <div
+              key={loc.name}
+              className="group relative bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 p-6 border border-neutral-100 text-center"
+            >
+              <div className="text-5xl mb-4">{loc.icon}</div>
+              <h3 className="text-xl font-bold text-neutral-900 mb-2">{loc.name}</h3>
+              <p className="text-sm text-neutral-600 mb-3">{loc.vibe}</p>
+              <p className="text-xs text-amber-600 font-semibold">{loc.convenience}</p>
+            </div>
+          ))}
+        </div>
+
+        <div className="mt-12 grid md:grid-cols-3 gap-6 items-center">
+          <div className="md:col-span-2">
+            <img
+              src="https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1200&q=80"
+              alt="Delhi skyline"
+              className="rounded-xl object-cover w-full h-64 shadow-md"
+            />
+          </div>
+          <div className="bg-neutral-900 text-white rounded-xl p-6">
+            <h4 className="font-bold text-amber-400 mb-2">Need a custom pin?</h4>
+            <p className="text-sm text-neutral-300 mb-4">
+              If your hotel or residence isn’t listed, drop the location pin on WhatsApp—we cover 40+ additional micro-markets across NCR.
+            </p>
+            <a
+              href="https://wa.me/91XXXXXXXXXX"
+              className="inline-flex items-center text-amber-400 font-semibold text-sm"
+            >
+              Share Location
+              <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section className="bg-white dark:bg-black py-16 px-6">
+      <div className="max-w-6xl mx-auto">
+        {/* Heading */}
+        <h2 className="text-4xl md:text-5xl font-black text-center text-black dark:text-white mb-12 tracking-tight">
+          Meet Our Team
+        </h2>
+
+        {/* Staff Grid */}
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+          {staff.map((person) => (
+            <div
+              key={person.name}
+              className="group relative flex flex-col items-center text-center"
+            >
+              {/* Image */}
+              <div className="relative w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden shadow-xl transition-transform duration-300 group-hover:scale-105">
+                <Image
+                  src={person.img}
+                  alt={person.name}
+                  fill
+                  className="object-cover"
+                />
+              </div>
+
+              {/* Name */}
+              <h3 className="mt-4 text-xl font-bold text-black dark:text-white">
+                {person.name}
+              </h3>
+
+              {/* Role */}
+              <p className="text-sm text-gray-500 dark:text-gray-400">
+                {person.role}
+              </p>
+
+              {/* Action Buttons */}
+              <div className="mt-3 flex gap-3">
+                <button className="px-4 py-2 text-sm font-semibold text-white bg-blue-600 rounded-full hover:bg-blue-700 transition">
+                  Call
+                </button>
+                <button className="px-4 py-2 text-sm font-semibold text-white bg-green-600 rounded-full hover:bg-green-700 transition">
+                  Chat
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+    <section className="bg-white py-16 px-6">
+      <div className="max-w-7xl mx-auto">
+        <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-8 text-center">
+          Premium Independent Escorts in Delhi – Authentic, Discreet, Unforgettable
+        </h1>
+
+        <div className="prose prose-lg prose-gray mx-auto leading-relaxed text-gray-700">
+          <p>
+            Welcome to DelhiEscorts.in, the capital’s most selective platform for luxury companionship.  
+            We hand-pick only independent, university-educated women who combine stunning looks with sharp intellect and warm, open hearts.  
+            Every profile is selfie-verified and re-approved monthly, guaranteeing that the girl who arrives at your suite is the same flawless beauty you admired online.  
+            Whether you are a busy executive landing at IGIA late tonight, a traveller seeking a plus-one for a cocktail rooftop in Aerocity, or a local gentleman craving genuine chemistry after endless video calls, we create moments that feel effortless, exciting and completely confidential.
+          </p>
+
+          <p>
+            Browse high-resolution portfolios, read honest client reviews and chat directly through end-to-end encrypted messages—no brokers, no upsells, no awkward surprises.  
+            Prefer a quiet wine evening at the Lodhi Hotel? A spontaneous drive to Neemrana Fort for sunset selfies? Or perhaps an indulgent four-hand massage followed by strawberries and laughter behind closed doors?  
+            Our companions tailor every encounter around your schedule, fantasies and comfort level, setting clear boundaries and safe-words before the first kiss.  
+            Discretion is woven into every step: your credit-card statement shows a neutral brand name, taxis drop off at lobby side entrances, and selfies taken together are automatically deleted when the date ends.
+          </p>
+
+          <p>
+            Beyond beauty, we value emotional intelligence. Each escort is trained in active listening, etiquette and after-care, ensuring you feel seen, respected and completely relaxed.  
+            Many speak fluent English, Hindi and French, hold degrees in fashion or psychology, and travel internationally on short notice—ideal companions for destination weddings in Udaipur or weekend escapes to Goa.  
+            Rates are transparent, hourly or overnight, with complimentary refreshments and lingerie styling included.  
+            Repeat clients enjoy priority booking, loyalty discounts and access to our private Telegram channel where new tours are announced first.  
+            Ready to meet someone who matches your energy and curiosity? Scroll down, click the WhatsApp button, and let us arrange an encounter that leaves you smiling for days.  
+            Delhi after dark has never felt this welcoming, this safe, this deliciously addictive.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section className="bg-black py-20">
+      <div className="max-w-7xl mx-auto px-6">
+
+        {/* Heading */}
+        <h2 className="text-center text-3xl md:text-4xl font-bold text-white mb-14">
+          Our Escorts Service Location
+        </h2>
+
+        {/* Grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-8 gap-y-6">
+          {locations1.map((city, index) => (
+            <Link
+              key={index}
+              href={`/call-girls-in-${city.toLowerCase().replace(/\s+/g, "-")}`}
+              className="block text-center bg-yellow-200 hover:bg-yellow-300 
+                         text-blue-700 font-semibold py-3 rounded-xl
+                         transition duration-300 shadow-md"
+            >
+              Call Girls in {city}
+            </Link>
+          ))}
+        </div>
+
+      </div>
+    </section>
+    <section className="py-16 bg-neutral-50">
+      <div className="container mx-auto px-6 max-w-4xl">
+        <h2 className="text-3xl md:text-4xl font-extrabold text-neutral-900 mb-8 text-center">
+          Quick Answers
+        </h2>
+
+        <div className="space-y-4">
+          {faqs.map((item, idx) => (
+            <details key={idx} className="group bg-white rounded-xl shadow-sm border border-neutral-100 open:shadow-lg transition">
+              <summary className="flex justify-between items-center cursor-pointer p-5 list-none">
+                <h3 className="font-semibold text-neutral-900">{item.q}</h3>
+                <svg className="w-5 h-5 text-amber-500 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </summary>
+              <div className="px-5 pb-5 text-neutral-600 text-sm leading-relaxed">
+                {item.a}
+              </div>
+            </details>
+          ))}
+        </div>
+
+        <p className="mt-8 text-center text-neutral-500 text-xs">
+          Have more questions? Chat icon is on the bottom right—real human, zero bots.
+        </p>
+      </div>
+    </section>
+    </>
+  );
+}
