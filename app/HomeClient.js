@@ -427,7 +427,7 @@ const locations1 = [
         </div>
       </div>
     </section> */}
-     <section
+    <section
   className="relative text-white"
   style={{
     backgroundImage: "url('/images/bannermodel.webp')",
@@ -437,6 +437,52 @@ const locations1 = [
   }}
 >
   {/* Dark overlay */}
+  <div className="absolute inset-0 bg-black/70"></div>
+
+  <div className="relative container mx-auto px-6 py-20 text-center max-w-3xl">
+
+    <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-4">
+      Book high-profile Delhi escorts first visit ₹1999 today
+    </h1>
+
+    <p className="text-lg md:text-xl text-zinc-300 mb-6">
+      Transparent pricing, no hidden charges, discreet service
+    </p>
+
+    <div className="inline-flex items-center gap-2 bg-zinc-800/80 text-green-400 px-4 py-2 rounded-full text-sm font-medium mb-8">
+      <span>✓</span>
+      <span>100 % Genuine & Verified</span>
+    </div>
+
+    <div className="flex flex-wrap justify-center gap-4">
+      <a
+        href="tel:+91XXXXXXXXXX"
+        className="flex items-center gap-2 bg-pink-600 hover:bg-pink-700 px-6 py-3 rounded-full font-semibold transition"
+      >
+        📞 Call Now
+      </a>
+
+      <a
+        href="https://wa.me/91XXXXXXXXXX"
+        className="flex items-center gap-2 bg-green-500 hover:bg-green-600 px-6 py-3 rounded-full font-semibold transition"
+      >
+        💬 WhatsApp
+      </a>
+    </div>
+
+  </div>
+</section>
+
+     {/* <section
+  className="relative text-white"
+  style={{
+    backgroundImage: "url('/images/bannermodel.webp')",
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+  }}
+>
+
   <div className="absolute inset-0 bg-black/70"></div>
 
   <div className="relative container mx-auto px-6 py-20 text-center max-w-4xl">
@@ -472,7 +518,7 @@ Book high-profile Delhi escorts first visit ₹1999 today
     </div>
 
   </div>
-</section>
+</section> */}
 
 
 
