@@ -446,7 +446,7 @@ const locations1 = [
     </h1>
 
     <p className="text-lg md:text-xl text-zinc-300 mb-6">
-      Transparent pricing, no hidden charges, discreet service
+      Book Delhi escorts ₹1999 today, pay after arrival.
     </p>
 
     <div className="inline-flex items-center gap-2 bg-zinc-800/80 text-green-400 px-4 py-2 rounded-full text-sm font-medium mb-8">
