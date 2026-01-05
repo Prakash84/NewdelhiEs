@@ -427,16 +427,61 @@ const locations1 = [
         </div>
       </div>
     </section> */}
+     <section
+  className="relative text-white"
+  style={{
+    backgroundImage: "url('/images/bannermodel.webp')",
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+  }}
+>
+  {/* Dark overlay */}
+  <div className="absolute inset-0 bg-black/70"></div>
+
+  <div className="relative container mx-auto px-6 py-20 text-center max-w-4xl">
+
+    <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight mb-4">
+      
+Book high-profile Delhi escorts first visit ₹1999 today
+    </h1>
+
+    <p className="text-lg md:text-xl text-zinc-300 mb-6">
+      Book high-profile Delhi escorts first visit ₹1999 today and feel the difference without burning a hole in your pocket. This one-time intro price is our welcome gift to new clients who want to taste five-star company at street-smart cost. Our Delhi escorts are air-hostesses, college girls, models and housewives who only meet selective gents; we never send random profiles. Just WhatsApp “1499” and get a verified photo within 30 seconds—no long chats, no advance, no fake promises.
+    </p>
+
+    <div className="inline-flex items-center gap-2 bg-zinc-800/80 text-green-400 px-4 py-2 rounded-full text-sm font-medium mb-8">
+      <span>✓</span>
+      <span>100 % Genuine & Verified</span>
+    </div>
+
+    <div className="flex flex-wrap justify-center gap-4">
+      <a
+        href="tel:+91XXXXXXXXXX"
+        className="flex items-center gap-2 bg-pink-600 hover:bg-pink-700 px-6 py-3 rounded-full font-semibold transition"
+      >
+        📞 Call Now
+      </a>
+
+      <a
+        href="https://wa.me/91XXXXXXXXXX"
+        className="flex items-center gap-2 bg-green-500 hover:bg-green-600 px-6 py-3 rounded-full font-semibold transition"
+      >
+        💬 WhatsApp
+      </a>
+    </div>
+
+  </div>
+</section>
 
 
 
-    <section
+    {/* <section
   className="relative min-h-[85vh] md:min-h-screen text-white bg-cover bg-center"
   style={{
     backgroundImage: "url('/images/bannermodel.webp')",
   }}
 >
-  {/* dark overlay for readability */}
   <div className="absolute inset-0 bg-black/60" />
 
   <div className="relative container mx-auto px-6 h-full flex items-center py-32">
@@ -470,7 +515,7 @@ const locations1 = [
       </div>
     </div>
   </div>
-</section>
+</section> */}
     {/* Our Therapy Experts */}
       <section className="py-16 px-4 ">
         <div className="max-w-7xl mx-auto">
@@ -619,7 +664,71 @@ const locations1 = [
 
   </div>
 </section>
+<section className="bg-gradient-to-br from-fuchsia-50 to-purple-50 py-20">
+      <div className="container mx-auto px-6 max-w-6xl grid md:grid-cols-2 gap-10 items-center">
 
+        {/* Left: Image + Overlaid Card */}
+        <div className="relative">
+          <img
+            src="/images/Wantto.webp"
+            alt="Elite Companion"
+            className="rounded-3xl shadow-xl w-full"
+          />
+          <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl shadow-lg p-4 flex items-center gap-3 max-w-[220px]">
+            <span className="text-3xl">✨</span>
+            <div>
+              <p className="text-xs text-zinc-500">Starting at</p>
+              <p className="font-bold text-zinc-900">₹ 8 k / hour</p>
+            </div>
+          </div>
+        </div>
+
+        {/* Right: Content */}
+        <div>
+          <h2 className="text-3xl font-extrabold text-zinc-900 mb-4">
+            Feel Delhi Escorts Magic – Premium Escort Service in Delhi from CP to Aerocity
+          </h2>
+          <p className="text-zinc-700 leading-relaxed mb-6">
+            Experience Delhi like never before with our Delhi escorts who turn every boring trip into a hot story you’ll WhatsApp your bestie. Each girl is hand-picked, selfie-checked and trained to fit any scene—five-star gala in Connaught Place, quiet wine dinner at The Lodhi, or a wild night inside your Aerocity suite. You set the pace, we bring the passion; our escort service in Delhi makes sure she walks in within thirty minutes, no advance, no cab drama.
+          </p>
+          <p className="text-zinc-700 leading-relaxed mb-6">
+            Starting at 8k an hour, you get high-profile escorts in Delhi who speak English, Hindi and even a bit of French if you like. From vibrant clubs of CP to luxury hotels near IGI, your female escort arrives dressed to kill, smelling awesome and ready to explore the city—or just explore you behind locked doors. Transparent pricing means the number quoted is the number you pay; we hate hidden extras more than you do.
+          </p>
+          <p>We cover full NCR—Noida escorts, Gurgaon escorts and Aerocity escorts reach your lobby just as fast as central Delhi escorts. Midnight landing or lunch-break date, our 24×7 live support keeps a real human on chat who tracks every step: selfie → cab → arrival → smile. Pay cash only after she knocks, and if plans change last minute we kill the booking free of cost.</p>
+
+          {/* Icon perks */}
+          <div className="grid grid-cols-3 gap-4 text-center">
+            <div className="bg-white rounded-xl p-3 shadow">
+              <span className="text-2xl">🔒</span>
+              <p className="text-xs mt-1">Discreet</p>
+            </div>
+            <div className="bg-white rounded-xl p-3 shadow">
+              <span className="text-2xl">⏱️</span>
+              <p className="text-xs mt-1">30-min arrival</p>
+            </div>
+            <div className="bg-white rounded-xl p-3 shadow">
+              <span className="text-2xl">💳</span>
+              <p className="text-xs mt-1">Pay later</p>
+            </div>
+          </div>
+
+          <div className="mt-8 flex flex-wrap gap-4">
+            <a
+              href="tel:+91XXXXXXXXXX"
+              className="inline-flex items-center gap-2 bg-zinc-900 text-white px-5 py-3 rounded-full hover:bg-zinc-800 transition"
+            >
+              <span>📞</span> Call Now
+            </a>
+            <a
+              href="https://wa.me/91XXXXXXXXXX"
+              className="inline-flex items-center gap-2 bg-green-500 text-white px-5 py-3 rounded-full hover:bg-green-600 transition"
+            >
+              <span>💬</span> WhatsApp
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section className="py-16 bg-neutral-50">
       <div className="container mx-auto px-6 max-w-5xl">
