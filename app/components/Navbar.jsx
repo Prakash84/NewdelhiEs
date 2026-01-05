@@ -7,11 +7,12 @@ export default function Navbar() {
 
   const links = [
     { label: 'Home', href: '/' },
-    { label: 'Services', href: '/Services' },
-    { label: 'Category', href: '/Category' },
-    { label: 'Price', href: '/pricing' },
-    { label: 'Outlets', href: '/outlets' },
-    { label: 'Contact Us', href: '/ContactUs' }
+    { label: 'About-Us', href: '/about-us' },
+    { label: 'Services', href: '/escort-service-in-delhi' },
+    { label: 'Category', href: '/independent-escorts-in-delhi' },
+    { label: 'Price', href: '/cheap-call-girls-in-delhi' },
+    { label: 'Outlets', href: '/gurgaon-escorts' },
+    { label: 'Contact Us', href: '/contact' }
   ];
 
   return (

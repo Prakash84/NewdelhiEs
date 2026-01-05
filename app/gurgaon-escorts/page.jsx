@@ -2,11 +2,11 @@ import Outpage from "./Outpage";
 // src/app/page.js
 // <-- NO "use client" here -->
 export const metadata = {
-  title: "Get Body To Body Massage in Gurgaon | B2B Spa At Home",
-  description: "Get a premium body to body massage in Gurgaon. Enjoy a private B2B spa at home and experience total comfort at your doorstep.",
+  title: "Gurgaon Escorts & Noida Escorts | Night Stay with Russian Girls",
+  description: "Book Gurgaon escorts & Noida escorts from ₹2,499—fastest escort service in Noida & Gurgaon with free room, Pay on arrival. 15-min delivery, 24×7 open.",
   openGraph: {
-    title: "Get Best Body Massage in Delhi | First Visit Offer 1999",
-    description: "Looking for a relaxing massage in Delhi? Experience the best full body, sandwich massage, Couple massages at the top massage parlour in Delhi.",
+    title: "Gurgaon Escorts & Noida Escorts | Night Stay with Russian Girls",
+    description: "Book Gurgaon escorts & Noida escorts from ₹2,499—fastest escort service in Noida & Gurgaon with free room, Pay on arrival. 15-min delivery, 24×7 open.",
     images: ["https://yourdomain.com/images/hb1.jpg"], // <-- use absolute URL in production
     type: "website",
   },

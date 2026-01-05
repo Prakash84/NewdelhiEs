@@ -1,10 +1,10 @@
 import HomeClient from "./HomeClient";
 export const metadata = {
-  title: "Get Body To Body Massage in Gurgaon | B2B Spa At Home",
-  description: "Get a premium body to body massage in Gurgaon. Enjoy a private B2B spa at home and experience total comfort at your doorstep.",
+  title: "Delhi Escorts ₹2k | Escort Service in Delhi with College Girls",
+  description: "Book 150+ profile at Delhi escorts like College girls, Russians, celebs & independent escorts in Delhi. Best escort service in Delhi, Gurgaon, Noida, Aerocity — Pay on arrival.",
   openGraph: {
-    title: "Get Best Body Massage in Delhi | First Visit Offer 1999",
-    description: "Looking for a relaxing massage in Delhi? Experience the best full body, sandwich massage, Couple massages at the top massage parlour in Delhi.",
+    title: "Delhi Escorts ₹2k | Escort Service in Delhi with College Girls",
+    description: "Book 150+ profile at Delhi escorts like College girls, Russians, celebs & independent escorts in Delhi. Best escort service in Delhi, Gurgaon, Noida, Aerocity — Pay on arrival.",
     images: ["https://yourdomain.com/images/hb1.jpg"], // <-- use absolute URL in production
     type: "website",
   },
