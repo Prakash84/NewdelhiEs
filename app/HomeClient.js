@@ -128,7 +128,8 @@ export default function HomeClient() {
     { name: 'Nisha', role: 'Co-Founder', img: '/images/Watch bright.webp' },
     { name: 'Somya', role: 'Head of Design', img: '/images/Wantto.webp' },
     { name: 'Zaira', role: 'Lead Developer', img: '/images/Today’s heat feed.webp' },
-    // { name: 'Sakshi', role: 'Marketing Lead', img: '/images/download (36).webp' },
+    { name: 'Sakshi', role: 'Marketing Lead', img: '/images/download (36).webp' },
+    
   ];
   const teamMembers = [
     {

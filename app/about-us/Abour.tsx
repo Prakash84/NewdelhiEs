@@ -1,10 +1,51 @@
 "use client";
-import { useState } from "react";
+import { useState } from 'react';
 import { FaCheck, FaStar, FaCrown, FaPlane, FaGraduationCap, FaGlobeAsia, FaSpa } from 'react-icons/fa';
 import { motion } from "framer-motion";
-import {  FaHands, FaHeartbeat, FaClock, FaEye, FaBullseye, FaHandsHelping  } from 'react-icons/fa'
+import {  FaHands, FaHeartbeat, FaClock, FaEye, FaBullseye, FaHandsHelping, FaHotel   } from 'react-icons/fa'
+import { ShieldCheck, Clock, UserCheck, MapPin } from "lucide-react";
+import Image from "next/image";
+import Link from 'next/link';
+
+type Escort = {
+  id: number;
+  name: string;
+  age: number;
+  location: string;
+  price: number;
+  rating: number;
+  img: string;
+  available: boolean;
+};
+
+const mockData: Escort[] = [
+  { id: 1, name: 'Anika', age: 23, location: 'South Delhi', price: 15000, rating: 4.9, img: '/images/download (44).webp', available: true },
+  { id: 2, name: 'Rhea', age: 25, location: 'Connaught Place', price: 18000, rating: 4.8, img: '/images/download (49).webp', available: true },
+  { id: 3, name: 'Simran', age: 24, location: 'Aerocity', price: 20000, rating: 5.0, img: '/images/download (39).webp', available: false },
+  { id: 4, name: 'Kavya', age: 22, location: 'Gurgaon', price: 16000, rating: 4.7, img: '/images/download (31).webp', available: true },
+  { id: 5, name: 'Tara', age: 26, location: 'Dwarka', price: 17000, rating: 4.9, img: '/images/download (27).webp', available: true },
+  { id: 6, name: 'Zoya', age: 24, location: 'Noida', price: 19000, rating: 4.8, img: '/images/image1.webp', available: true },
+];
 
 export default function Abour() {
+  const [list, setList] = useState(mockData);
+    const [page, setPage] = useState(1);
+  
+    // simple filters
+    const [price, setPrice] = useState('');
+    const [location, setLocation] = useState('');
+    const [available, setAvailable] = useState('');
+  
+    const applyFilters = () => {
+      let filtered = mockData;
+      if (price === 'low') filtered = filtered.sort((a, b) => a.price - b.price);
+      if (price === 'high') filtered = filtered.sort((a, b) => b.price - a.price);
+      if (location) filtered = filtered.filter((e) => e.location === location);
+      if (available === 'yes') filtered = filtered.filter((e) => e.available);
+      setList(filtered);
+      setPage(1);
+    };
+    
   const plans = [
     {
       name: "Hourly Companion Plan",
@@ -327,6 +368,119 @@ export default function Abour() {
         </div>
       </div>
     </section>
+    <section className="bg-slate-50 dark:bg-black py-16 px-6">
+          <div className="max-w-7xl mx-auto">
+            {/* Heading */}
+            <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 dark:text-white mb-8 text-center">
+              Available Independent Escorts
+            </h2>
+    
+            {/* Filters */}
+            <div className="mb-8 flex flex-wrap gap-4 justify-center">
+              <select
+                className="px-4 py-2 rounded-full border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white"
+                value={price}
+                onChange={(e) => setPrice(e.target.value)}
+              >
+                <option value="">Sort by Price</option>
+                <option value="low">Low to High</option>
+                <option value="high">High to Low</option>
+              </select>
+    
+              <select
+                className="px-4 py-2 rounded-full border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white"
+                value={location}
+                onChange={(e) => setLocation(e.target.value)}
+              >
+                <option value="">All Locations</option>
+                <option>South Delhi</option>
+                <option>Connaught Place</option>
+                <option>Aerocity</option>
+                <option>Gurgaon</option>
+                <option>Dwarka</option>
+                <option>Noida</option>
+              </select>
+    
+              <select
+                className="px-4 py-2 rounded-full border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white"
+                value={available}
+                onChange={(e) => setAvailable(e.target.value)}
+              >
+                <option value="">All Status</option>
+                <option value="yes">Available Now</option>
+              </select>
+    
+              <button
+                onClick={applyFilters}
+                className="px-6 py-2 rounded-full bg-fuchsia-600 hover:bg-fuchsia-500 text-white font-semibold"
+              >
+                Apply
+              </button>
+            </div>
+    
+            {/* Cards Grid */}
+            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+              {list.slice(0, page * 6).map((e) => (
+                <div
+                  key={e.id}
+                  className="bg-white dark:bg-slate-800 rounded-2xl shadow-lg hover:shadow-2xl transition-all overflow-hidden group"
+                >
+                  <div className="relative h-72">
+                    <Image
+                      src={e.img}
+                      alt={e.name}
+                      fill
+                      className="object-cover group-hover:scale-105 transition-transform"
+                    />
+                    {e.available && (
+                      <span className="absolute top-3 right-3 px-3 py-1 rounded-full bg-green-500 text-white text-xs font-bold">
+                        Available Now
+                      </span>
+                    )}
+                  </div>
+    
+                  <div className="p-5">
+                    <div className="flex items-center justify-between mb-2">
+                      <h3 className="text-xl font-bold text-slate-900 dark:text-white">
+                        {e.name}, <span className="text-sm font-normal text-slate-500">({e.age})</span>
+                      </h3>
+                      <div className="flex items-center gap-1 text-amber-500 text-sm">
+                        <span>⭐</span>
+                        <span className="text-slate-700 dark:text-slate-300">{e.rating}</span>
+                      </div>
+                    </div>
+    
+                    <p className="text-slate-600 dark:text-slate-300 text-sm mb-3">{e.location}</p>
+    
+                    <div className="flex items-center justify-between">
+                      <p className="text-fuchsia-600 dark:text-fuchsia-400 font-extrabold text-lg">
+                        ₹{e.price.toLocaleString()}
+                      </p>
+                      <Link
+                        href={`https://wa.me/91XXXXXXXXXX?text=Hi, interested in ${e.name}`}
+                        className="px-4 py-2 rounded-full bg-green-500 hover:bg-green-400 text-black font-bold text-sm"
+                      >
+                        Book Now
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+    
+            {/* Load More */}
+            {page * 6 < list.length && (
+              <div className="mt-10 text-center">
+                <button
+                  onClick={() => setPage(page + 1)}
+                  className="px-6 py-3 rounded-full bg-slate-900 hover:bg-slate-800 text-white font-semibold"
+                >
+                  Load More
+                </button>
+              </div>
+            )}
+          </div>
+        </section>
 
     
     <section className="bg-zinc-50 py-16">
@@ -387,7 +541,103 @@ export default function Abour() {
 
       </div>
     </section>
-    
+    <section className="bg-black py-24">
+      <div className="max-w-7xl mx-auto px-6">
+
+        {/* Heading */}
+        <div className="text-center mb-16">
+          <h2 className="text-3xl md:text-4xl font-extrabold text-white">
+            Our Discreet Delhi Escort Service Process
+          </h2>
+
+          <p className="mt-4 max-w-3xl mx-auto text-gray-300 leading-relaxed">
+            We follow a transparent and secure approach to deliver the best escort service in Delhi, Gurgaon, Noida, Dwarka, South Delhi, Mahipalpur, and across Delhi NCR with complete privacy.
+          </p>
+        </div>
+
+        {/* Process Cards */}
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
+
+          <div className="bg-neutral-800 p-8 rounded-2xl text-center shadow-lg">
+            <div className="flex justify-center mb-4 text-amber-400">
+              <ShieldCheck size={36} />
+            </div>
+
+            <h3 className="text-xl font-bold text-white mb-3">
+              100% Confidential
+            </h3>
+
+            <p className="text-gray-400 text-sm">
+              All bookings for independent escorts in Delhi are handled privately without sharing any client details.
+            </p>
+          </div>
+
+          <div className="bg-neutral-800 p-8 rounded-2xl text-center shadow-lg">
+            <div className="flex justify-center mb-4 text-amber-400">
+              <UserCheck size={36} />
+            </div>
+
+            <h3 className="text-xl font-bold text-white mb-3">
+              Verified Profiles
+            </h3>
+
+            <p className="text-gray-400 text-sm">
+              Every high-profile escort listed for Delhi escorts is screened and authenticated for safe companionship.
+            </p>
+          </div>
+
+          <div className="bg-neutral-800 p-8 rounded-2xl text-center shadow-lg">
+            <div className="flex justify-center mb-4 text-amber-400">
+              <MapPin size={36} />
+            </div>
+
+            <h3 className="text-xl font-bold text-white mb-3">
+              Area Coverage
+            </h3>
+
+            <p className="text-gray-400 text-sm">
+              Premium escorts are available in Aerocity, Gurgaon, Noida, Dwarka, Mahipalpur hotels and all VIP Delhi NCR areas.
+            </p>
+          </div>
+
+          <div className="bg-neutral-800 p-8 rounded-2xl text-center shadow-lg">
+            <div className="flex justify-center mb-4 text-amber-400">
+              <Clock size={36} />
+            </div>
+
+            <h3 className="text-xl font-bold text-white mb-3">
+              Quick Arrival
+            </h3>
+
+            <p className="text-gray-400 text-sm">
+              Once confirmed, our escort service in Delhi ensures companions reach your location within the promised time.
+            </p>
+          </div>
+
+        </div>
+
+        {/* Contact Buttons */}
+        <div className="flex justify-center gap-6 mt-16">
+          <a
+            href="/contact"
+            className="flex items-center gap-2 bg-amber-500 text-black font-bold px-8 py-3 rounded-xl hover:bg-amber-400 transition"
+          >
+            <MapPin size={18} />
+            View Contact Options
+          </a>
+
+          <a
+            href="https://wa.me/your-number"
+            className="flex items-center gap-2 border border-amber-500 text-amber-300 font-semibold px-8 py-3 rounded-xl hover:bg-amber-500 hover:text-black transition"
+          >
+            <Clock size={18} />
+            Instant Booking Help
+          </a>
+        </div>
+
+      </div>
+    </section>
+  
     {/* pricing */}
          <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 py-16 px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">
