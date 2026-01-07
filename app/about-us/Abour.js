@@ -2,6 +2,7 @@
 import { useState } from "react";
 import { FaCheck, FaStar, FaCrown, FaPlane, FaGraduationCap, FaGlobeAsia, FaSpa } from 'react-icons/fa';
 import { motion } from "framer-motion";
+import {  FaHands, FaHeartbeat, FaClock, FaEye, FaBullseye, FaHandsHelping  } from 'react-icons/fa'
 
 export default function Abour() {
   const plans = [
@@ -50,7 +51,7 @@ export default function Abour() {
       level: "Celebs, runway models, air-hostesses",
       clients: "Luxury seekers, VIP events, overnight stays",
       badge: "Luxury",
-      color: "bg-amber-50 border-amber-200 text-amber-900",
+      color: "bg-zinc-50 border-zinc-200 text-zinc-900",
     },
     {
       title: "Couple-Friendly Companions",
@@ -175,9 +176,9 @@ export default function Abour() {
       {
         id: 'foreigner',
         title: 'Foreigner',
-        icon: <FaGlobeAsia className="text-amber-500" />,
+        icon: <FaGlobeAsia className="text-zinc-500" />,
         description: 'International companions for cultural exchange',
-        color: 'from-amber-500 to-orange-500',
+        color: 'from-zinc-500 to-orange-500',
         pricing: {
           session: '20k',
           two: '40k',
@@ -250,7 +251,7 @@ export default function Abour() {
   </div>
 </section>
 
-    <section className="bg-gradient-to-r from-amber-50 via-orange-50 to-yellow-50 py-20">
+    <section className="bg-gradient-to-r from-zinc-50 via-orange-50 to-yellow-50 py-20">
       <div className="container mx-auto px-6 max-w-7xl">
 
         {/* Top headline + icon */}
@@ -386,6 +387,7 @@ export default function Abour() {
 
       </div>
     </section>
+    
     {/* pricing */}
          <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 py-16 px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">
@@ -517,7 +519,7 @@ export default function Abour() {
                   <div className="bg-gray-700/50 rounded-xl p-6 min-w-[300px]">
                     <h4 className="font-bold text-lg mb-3">Why choose us?</h4>
                     <div className="flex items-center mb-4">
-                      <div className="text-4xl font-bold bg-gradient-to-r from-amber-400 to-yellow-300 bg-clip-text text-transparent">98%</div>
+                      <div className="text-4xl font-bold bg-gradient-to-r from-zinc-400 to-yellow-300 bg-clip-text text-transparent">98%</div>
                       <div className="ml-3 text-gray-300">Client Satisfaction Rate</div>
                     </div>
                     <div className="flex items-center">
@@ -640,6 +642,89 @@ export default function Abour() {
         </div>
       </div>
     </section>
+    {/* //// */}
+     <section className="py-16 bg-white" aria-labelledby="about-extra-heading">
+      <div className="max-w-6xl mx-auto px-6">
+        <div className="text-center mb-10">
+          <p className="text-sm font-medium text-zinc-600 uppercase">About Us — Quick Look</p>
+          <h2 id="about-extra-heading" className="mt-3 text-3xl md:text-4xl font-extrabold text-zinc-900">
+            Our Vision, Mission & Values at Spa in Delhi 
+          </h2>
+          <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
+            We combine luxury hospitality and evidence-based therapies to create a calm, restorative experience for every guest.
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {/* Vision */}
+          <article className="bg-zinc-50 border border-zinc-100 rounded-2xl p-6 text-center shadow-sm">
+            <div className="mx-auto w-14 h-14 rounded-full bg-zinc-600/10 flex items-center justify-center text-zinc-700 mb-4">
+              <FaEye className="w-6 h-6" />
+            </div>
+            <h3 className="text-xl font-semibold text-zinc-900 mb-2">Vision</h3>
+            <p className="text-sm text-gray-600">
+              To be the best massage centre in Delhi. All treatments are designed not only to restore your muscles but also to rejuvenate your energy, alleviate stress, and promote overall well-being. Ayurvedic massages, including aromatherapy, are among the methods we use in treatment to heal the body.
+            </p>
+          </article>
+
+          {/* Mission */}
+          <article className="bg-white border border-zinc-100 rounded-2xl p-6 text-center shadow-sm">
+            <div className="mx-auto w-14 h-14 rounded-full bg-zinc-600/10 flex items-center justify-center text-zinc-700 mb-4">
+              <FaBullseye className="w-6 h-6" />
+            </div>
+            <h3 className="text-xl font-semibold text-zinc-900 mb-2">Mission</h3>
+            <p className="text-sm text-gray-600">
+              We strive to offer a sense of wellness, relaxation, and rejuvenation to all individuals who enter our doors. Our mission is to provide an environment that combines luxury and affordability and where therapies that are designed to meet the lifestyle of each client are offered.
+            </p>
+          </article>
+
+          {/* Values */}
+          <article className="bg-zinc-50 border border-zinc-100 rounded-2xl p-6 text-center shadow-sm">
+            <div className="mx-auto w-14 h-14 rounded-full bg-zinc-600/10 flex items-center justify-center text-zinc-700 mb-4">
+              <FaHandsHelping className="w-6 h-6" />
+            </div>
+            <h3 className="text-xl font-semibold text-zinc-900 mb-2">Values</h3>
+            <p className="text-sm text-gray-600">
+              We are of the opinion that trust forms the basis of any wellness endeavour. This is the reason why Spa Delhi ensures the hygiene, privacy, as well as professionalism. All therapists receive specialized training and each session will be quality checked to maintain a safe, comfortable environment among all of our guests.
+            </p>
+          </article>
+        </div>
+
+        {/* Stats & CTA */}
+        <div className="mt-10 flex flex-col md:flex-row items-center justify-between gap-6 bg-gradient-to-r from-zinc-50 to-white rounded-2xl p-6 border border-zinc-100">
+          <div className="flex gap-6 items-center">
+            <div className="text-center">
+              <div className="text-zinc-900 font-extrabold text-2xl">24+</div>
+              <div className="text-sm text-gray-600">Outlets</div>
+            </div>
+            <div className="text-center">
+              <div className="text-zinc-900 font-extrabold text-2xl">5★</div>
+              <div className="text-sm text-gray-600">Hotel partners</div>
+            </div>
+            <div className="text-center">
+              <div className="text-zinc-900 font-extrabold text-2xl">100k+</div>
+              <div className="text-sm text-gray-600">Happy customers</div>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-4">
+            <a
+              href="/contact"
+              className="inline-block px-5 py-3 rounded-full bg-zinc-600 text-white font-semibold shadow hover:brightness-95 transition"
+            >
+              Contact & Book
+            </a>
+            <a
+              href="/spa-therapist-jobs-in-delhi"
+              className="text-zinc-900 font-medium hover:underline"
+            >
+              Join Our Team
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    {/* ///////////// */}
     <section className="bg-zinc-50 py-16">
       <div className="container mx-auto px-6 max-w-6xl">
         <h2 className="text-3xl font-bold text-center text-zinc-900 mb-10">

@@ -10,58 +10,58 @@ export default function HomeClient() {
   const services = [
     {
       title: "Independent Escorts",
-      subtitle: "Self-run Delhi escorts",
-      clients: "Guys who hate brokers and want direct WhatsApp chat with real female escorts in Delhi.",
-      experience: "Gup-shup over Old-Delhi chai, long Khan-market walks, pocket-friendly rates, cash after hello."
+      subtitle: "Russian Escorts ",
+      clients: "Book our Instagram-verified Russian Delhi escorts for mountain or shoreline escapes. Slavic beauties snap Insta-worthy bikini shots on Goa’s Palolem, then cuddle in private pool villas. In Manali, they thrill you with snowboard lessons and steamy log-cabin nights. High-profile, passport-ready, fully vaccinated—travel stickers on IG stories prove every mile. 24-hour companion guarantee.",
+      // experience: "Gup-shup over Old-Delhi chai, long Khan-market walks, pocket-friendly rates, cash after hello."
     },
     {
       title: "VIP & Premium Escorts",
-      subtitle: "Luxury Delhi escorts",
-      clients: "Business-class flyers who need five-star poise and embassy-level silence.",
-      experience: "Rolls-ready couture, Dum-Pukht dinners, multilingual talk, silent billing."
+      subtitle: "Delhi Girls ",
+      clients: "Local Delhi escorts know every twist from Murthal dhabhas to Manali’s Solang ropeway, Rishikesh’s secret campsites to Goa’s sunset shacks. Their Insta reels tag real-time locations, guiding you to cliff-jump spots, cafés, midnight markets. Friendly, fluent in Hindi-English, they charm families and hotel staff alike, turning road trips into VIP adventures.",
+      // experience: "Rolls-ready couture, Dum-Pukht dinners, multilingual talk, silent billing."
     },
     {
       title: "College & Young Companions",
-      subtitle: "Campus Delhi escorts",
-      clients: "Young pros 26-40 after fresh energy and Netflix-and-chill vibes.",
-      experience: "Murthal drives, third-wave coffee, consent-first cosiness, 24×7 slot."
+      subtitle: "College-Girl Escorts ",
+      clients: "Young university Delhi escorts bring energy and affordability to group trips. Share hostel rooms or luxury tents, split costs, yet enjoy flirtatious company. They shoot TikTok-Insta content on Goa beaches, bonfire dance reels in Rishikesh, snowball challenges in Manali. Cooperative, discreet, and travel-smart—perfect for spontaneous long-weekend plans.",
+      // experience: "Murthal drives, third-wave coffee, consent-first cosiness, 24×7 slot."
     },
     {
       title: "Couple-Friendly Companionship",
-      subtitle: "Sweet Delhi escorts",
-      clients: "Couples wanting a respectful third wheel to spice without drama.",
-      experience: "Wine giggles, first-time nerves gone, shared selfies, stronger bond."
+      subtitle: "Insta-Profile Escorts",
+      clients: "Swipe verified Instagram Delhi escorts with 10k-plus followers. Their travel highlight albums document past Manali, Goa, Rishikesh tours—real testimonials in comments. Book through DM or WhatsApp link in bio; they carry ring-lights, capture cinematic moments, boost your social clout while delivering private 5-star companionship on hills, beaches, and riverbanks.",
+      // experience: "Wine giggles, first-time nerves gone, shared selfies, stronger bond."
     }
   ];
   const locations = [
     {
       name: "Aerocity",
       icon: "✈️",
-      vibe: "Business-hub buzz, 5-star corridors, 24×7 flight schedules.",
+      vibe: "Premium Delhi escort services at Aerocity's luxury hotels including Roseate House, Pullman, and Lemon Tree. Our escorts in Delhi provide discreet 5-star hotel companionship near IGIA Airport with verified independent escorts in Delhi.",
       convenience: "10-minute approval, direct-to-room key-card entry, no lobby questions."
     },
     {
       name: "Connaught Place",
       icon: "🏙️",
-      vibe: "Heritage colonnades, rooftop bars, metro nexus.",
+      vibe: "Elite high profile escorts in Delhi available at The Park, Radisson, and central CP hotels. Experience sophisticated escort service in Delhi with educated female escorts in Delhi in the heart of the capital's business district.",
       convenience: "Meet at parked car or metro exit-4; walk-up heritage suites available."
     },
     {
       name: "South Delhi",
       icon: "🏡",
-      vibe: "Leafy avenues, farmhouse parties, Khan Market cafés.",
+      vibe: "Premium Delhi escort services covering NFC, Greater Kailash, and Defence Colony. Meet sophisticated independent escorts in Delhi at luxury residences and hotels with our trusted escorts in Delhi for discerning clients.",
       convenience: "Discreet bungalow gates, GPS-pinned chauffeur drop, late-night check-ins welcomed."
     },
     {
       name: "Noida",
       icon: "🏢",
-      vibe: "Tech parks, mall culture, film-city nights.",
+      vibe: "Elite escort service in Delhi extended to Noida sectors. Our Delhi escorts travel to your location with verified call girls in Delhi providing premium companionship across NCR's corporate hub.",
       convenience: "Sector-18 metro pickup, expressway-ready cabs, prepaid room blocks."
     },
     {
       name: "Gurgaon",
       icon: "🌃",
-      vibe: "CyberHub neon, golf-course villas, startup rooftops.",
+      vibe: "High-class Delhi escort services available throughout Gurgaon. From Cyber Hub to Golf Course Road, our high profile escorts in Delhi serve premium hotels and residences with professional independent escorts in Delhi.",
       convenience: "FastTAG express lanes, corporate apartment master-keys, 30-min city-wide SLA."
     }
   ];
@@ -439,14 +439,14 @@ const locations1 = [
   {/* Dark overlay */}
   <div className="absolute inset-0 bg-black/70"></div>
 
-  <div className="relative container mx-auto px-6 py-20 text-center max-w-3xl">
+  <div className="relative container mx-auto px-6 py-20 text-center max-w-4xl">
 
-    <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-4">
+    <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-4">
       Book high-profile Delhi escorts first visit ₹1999 today
     </h1>
 
     <p className="text-lg md:text-xl text-zinc-300 mb-6">
-      Book Delhi escorts ₹1999 today, pay after arrival.
+      Independent Delhi Escorts in 5 star hotel
     </p>
 
     <div className="inline-flex items-center gap-2 bg-zinc-800/80 text-green-400 px-4 py-2 rounded-full text-sm font-medium mb-8">
@@ -583,7 +583,7 @@ Book high-profile Delhi escorts first visit ₹1999 today
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
           >
-            Meet Real Independent Escorts in Delhi – Top Delhi Escorts ₹1999 Trial<span className="text-black-600"> </span>
+            Meet Independent Escorts in Delhi with College Girls & Foreign profile<span className="text-black-600"> </span>
           </motion.h2>
           
           <motion.p
@@ -631,14 +631,14 @@ Book high-profile Delhi escorts first visit ₹1999 today
       </section>
        {/* End Our Therapy Experts */}
        <section className="bg-black py-24">
-  <div className="max-w-7xl mx-auto px-6">
+  <div className="max-w-8xl mx-auto px-6">
 
     {/* Heading */}
     <div className="text-center mb-16">
       <h2 className="text-3xl md:text-4xl font-bold text-white">
         Elite Delhi Escort Gallery – Premium Delhi Escort Service 24/7
       </h2>
-      <p className="mt-4 max-w-3xl mx-auto text-gray-300 leading-relaxed">
+      <p className="mt-4 max-w-4xl mx-auto text-gray-300 leading-relaxed">
         Scroll through the city’s most-liked Delhi Escorts page and meet high-profile models, air-hostesses and influencer-level beauties who work only with our escort service in delhi. Every profile is selfie-verified, age-checked and hotel-ready; no fake edits, no old photos. Whether you need a glamorous plus-one for a South-Delhi wedding or a discreet late-night visitor at Pullman Aerocity, our Delhi Escort team reaches your door within 25 minutes. Book directly on WhatsApp, pay cash after arrival, and enjoy five-star manners wrapped in Indian spice. That’s why guests call us the smoothest Delhi escort service in town—luxury made simple, prices kept sensible.
       </p>
     </div>
@@ -804,10 +804,10 @@ Book high-profile Delhi escorts first visit ₹1999 today
     <section className="py-20 bg-gradient-to-b from-neutral-50 to-white">
       <div className="container mx-auto px-6 max-w-7xl">
         <h2 className="text-4xl md:text-5xl font-extrabold text-neutral-900 mb-4 text-center">
-          Trusted Escort Service in Delhi for Every Mood
+          Travel Companions - Delhi Escorts for Manali, Goa & Rishikesh Trips
         </h2>
-        <p className="text-center text-neutral-600 mb-12 max-w-3xl mx-auto">
-          Our escort service in Delhi lets you choose exactly the kind of female escorts in Delhi you want, no drama, no fake pics. Fancy a real independent girl who manages her own time? She’ll meet you at any 5 star hotel in delhiand let the night grow naturally.We send respectful, open-minded Delhi escorts who make both partners comfy and spice up the bond without awkwardness. Every profile is selfie-verified, age-checked and health-screened; you pay cash and UPI after she knocks. Whether it’s a quick 2-hour meet, one WhatsApp message locks the girl and the time. 
+        <p className="text-center text-neutral-600 mb-12 max-w-5xl mx-auto">
+          Ready to turn your next long weekend into the adventure of a lifetime? Our travel-dedicated Delhi escort service team is online 24/7 to design a custom Manali, Goa or Rishikesh escape. Simply WhatsApp “TRIP” and receive an instant portfolio featuring Russian escorts in Delhi, bubbly college girls and verified Insta-models—each with passport, Covid certificate and bikini-ready Instagram stories. Tell us your dates, hotel vibe and desired mood; within minutes we share clear packages that include your Delhi escort’s travel, stay, meals and discreet company, so no hidden costs spoil the road. Want wheels today? Our partnered vendors deliver sanitized SUVs with dark-tinted windows to your Delhi doorstep, stocked with champagne and mountain snacks. Payment is flexible: 20% advance locks your companion, balance when she hops in. Message now, pick your dream co-pilot from our premium Delhi escort service, and wake up to sunrise in the hills, beach or Ganga ghats with the most gorgeous Russian escorts in Delhi by your side. 
         </p>
 
         <div className="grid md:grid-cols-2 gap-8">
@@ -823,11 +823,12 @@ Book high-profile Delhi escorts first visit ₹1999 today
                 {s.subtitle}
               </h3>
               <p className="mt-4 text-neutral-700 leading-relaxed">
-                <span className="font-semibold text-amber-600">Who chooses this:</span> {s.clients}
+                {/* <span className="font-semibold text-amber-600">Who chooses this:</span>  */}
+                {s.clients}
               </p>
-              <p className="mt-3 text-neutral-600 leading-relaxed">
+              {/* <p className="mt-3 text-neutral-600 leading-relaxed">
                 <span className="font-semibold text-amber-600">Experience focus:</span> {s.experience}
-              </p>
+              </p> */}
             </div>
           ))}
         </div>
@@ -917,7 +918,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 text-neutral-300 mt-10">
           {/* 1 */}
           <div className="border border-neutral-700 rounded-xl p-6">
-            <h3 className="text-amber-400 font-semibold mb-2">Verified & Genuine</h3>
+            <h3 className="text-amber-400 font-semibold mb-2">Verified & Real profiles</h3>
             <p className="text-sm leading-relaxed">
             Live selfie of real Delhi escorts in 30 sec.
             </p>
@@ -933,7 +934,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
 
           {/* 3 */}
           <div className="border border-neutral-700 rounded-xl p-6">
-            <h3 className="text-amber-400 font-semibold mb-2">No Fake Promises</h3>
+            <h3 className="text-amber-400 font-semibold mb-2">No advance & No hidden Charges</h3>
             <p className="text-sm leading-relaxed">
               If chosen Gurgaon escorts can’t reach on time, we say it before you pay.
             </p>
@@ -957,7 +958,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
 
           {/* 6 */}
           <div className="border border-neutral-700 rounded-xl p-6">
-            <h3 className="text-amber-400 font-semibold mb-2">Elite but Local</h3>
+            <h3 className="text-amber-400 font-semibold mb-2">corporative girls</h3>
             <p className="text-sm leading-relaxed">
               Big-agency polish, neighbourhood speed—our escort service in Delhi knows which hotel lifts need key-cards.
             </p>
@@ -977,7 +978,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
           Prime Locations of Delhi Escorts
         </h2>
         <p className="text-center text-neutral-600 mb-12 max-w-3xl mx-auto">
-          Wherever you check-in, we check-point: verified arrival in under 45 minutes—no extra travel fee.
+          Our elite Delhi escort services cover all major locations across Delhi NCR. From Aerocity escorts at luxury airport hotels to CP escorts in central Delhi, South Delhi escorts in premium colonies, plus Noida escorts and Gurgaon escorts - we bring verified independent escorts in Delhi to your location.
         </p>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-6">
@@ -1117,6 +1118,49 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
         </div>
       </div>
     </section>
+    <section className="bg-black py-20">
+      <div className="max-w-7xl mx-auto px-6 text-center">
+
+        <h2 className="text-3xl md:text-4xl font-extrabold text-white mb-6">
+          Book Premium Delhi Escorts Today – Contact Us Now
+        </h2>
+
+        <p className="text-gray-300 leading-relaxed max-w-3xl mx-auto mb-8">
+          Ready to meet exceptional Delhi escorts? Your journey toward extraordinary experiences begins here. Contact us to discuss preferences for independent escorts in Delhi, high profile escorts in Delhi, or specific requirements for Aerocity escorts, Noida escorts, or Gurgaon escorts.
+        </p>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-gray-400 text-left max-w-4xl mx-auto mb-10">
+          <ul className="space-y-3">
+            <li>✓ Secure online booking for Delhi escorts</li>
+            <li>✓ WhatsApp for quick inquiries</li>
+            <li>✓ Email for detailed arrangements</li>
+          </ul>
+
+          <ul className="space-y-3">
+            <li>✓ Phone support for immediate assistance</li>
+            <li>✓ Same-day escort service availability</li>
+            <li>✓ Best escort service in Delhi NCR</li>
+          </ul>
+        </div>
+
+        <div className="flex flex-col sm:flex-row justify-center gap-4">
+          <a
+            href="https://wa.me/your-number"
+            className="bg-amber-500 text-black font-bold px-8 py-3 rounded-lg hover:bg-amber-400 transition"
+          >
+            Contact on WhatsApp
+          </a>
+
+          <a
+            href="/contact"
+            className="border border-amber-500 text-amber-300 font-semibold px-8 py-3 rounded-lg hover:bg-amber-500 hover:text-black transition"
+          >
+            Call Us Now
+          </a>
+        </div>
+
+      </div>
+    </section>
     <section className="py-16 bg-gradient-to-br from-amber-50 to-white">
       <div className="container mx-auto px-6 max-w-5xl">
         <h2 className="text-3xl md:text-4xl font-extrabold text-neutral-900 mb-4 text-center">
@@ -1148,8 +1192,8 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
     </section>
     <section className="bg-white py-16 px-6">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-8 text-center">
-         Premium Independent Delhi Escorts – Verified High-Profile Escort Service in Delhi, Noida, Aerocity & Gurgaon
+        <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-8 text-center">
+         Premium Independent Delhi Escorts – Verified High-Profile Escort Service in Delhi.
         </h1>
 
         <div className="prose prose-lg prose-gray mx-auto leading-relaxed text-gray-700">
@@ -1195,6 +1239,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
 
       </div>
     </section>
+    
     <section className="py-16 bg-neutral-50">
       <div className="container mx-auto px-6 max-w-4xl">
         <h2 className="text-3xl md:text-4xl font-extrabold text-neutral-900 mb-8 text-center">
@@ -1222,6 +1267,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
         </p>
       </div>
     </section>
+    
     
    </>
   );
