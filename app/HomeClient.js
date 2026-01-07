@@ -154,7 +154,7 @@ export default function HomeClient() {
     {
       name: "Haven West",
       designation: "Spa Therapist",
-      image: "/images/downloadd1.webp",
+      image: "/images/ESESS.webp",
       socials: {
         WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
         instagram: "https://www.instagram.com/delhi.luxury_spa/",
@@ -164,7 +164,7 @@ export default function HomeClient() {
     {
       name: "Avery Grace",
       designation: "Spa Therapist",
-      image: "/images/download432.webp",
+      image: "/images/download (53).webp",
       socials: {
         WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
         instagram: "https://www.instagram.com/delhi.luxury_spa/",
@@ -184,7 +184,7 @@ export default function HomeClient() {
     {
       name: "Lane Parsons",
       designation: "Spa Therapist",
-      image: "/images/Evie Lee Mikomin.webp",
+      image: "/images/anaa - Linkfly.webp",
       socials: {
         WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
         instagram: "https://www.instagram.com/delhi.luxury_spa/",
@@ -194,7 +194,7 @@ export default function HomeClient() {
     {
       name: "Haven West",
       designation: "Spa Therapist",
-      image: "/images/downloadd1.webp",
+      image: "/images/download (52).webp",
       socials: {
         WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
         instagram: "https://www.instagram.com/delhi.luxury_spa/",
@@ -204,7 +204,7 @@ export default function HomeClient() {
     {
       name: "Avery Grace",
       designation: "Spa Therapist",
-      image: "/images/download432.webp",
+      image: "/images/download (50).webp",
       socials: {
         WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
         instagram: "https://www.instagram.com/delhi.luxury_spa/",

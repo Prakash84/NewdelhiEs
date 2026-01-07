@@ -104,44 +104,44 @@ const pillars = [
  // End Features
   const services2 = [
   {
-    title: "BUSTY BOOBS",
+    title: "Busty Boobs",
     description:
-      "We have busty female models with big boobs to provide boobs pressing services to young boys and men.",
+      "Curves that overflow your hands—our busty Delhi escorts love long, slow body worship and boob-play that ends only when you say stop.",
     icon: "/path-to-your-icon1.svg",
     image: "/images/client-1.webp",
   },
   {
     title: "CUM IN MOUTH",
     description:
-      "Most of the men enjoy when he climax in the mouth of their girl. Now you can enjoy Cum in mouth with Sonal.",
+      "Finish with confidence; every encounter with our escort service in South Delhi ends exactly how you like it, including safe, consensual CIM.",
     icon: "/path-to-your-icon2.svg",
     image: "/images/client-2.webp",
   },
   {
     title: "GIRL FOR DATE",
     description:
-      "Want Real Dating Service Experience? We have real girlfriends who are available to give you real dating experience.",
+      "Need a dinner companion who turns into a girlfriend at midnight? Our real-dating escort service in Noida sends verified women who actually enjoy conversation and chemistry.",
     icon: "/path-to-your-icon3.svg",
     image: "/images/client-3.webp",
   },
   {
     title: "ANAL SEX",
     description:
-      "We all know that Anal Sex is hard to find, but with Sexy Sonal, you can enjoy Anal or DP Sex service with your girl.",
+      "Double-penetration or gentle first-time anal—request it when you order and your escort in Dwarka will arrive prepared and excited.",
     icon: "/path-to-your-icon4.svg",
     image: "/images/client-4.webp",
   },
   {
     title: "RUSSIAN GIRL",
     description:
-      "Are you a real fan of Russian Girls? We have most beautiful Russian Call Girls in Delhi starting from Rs. 6000 only.",
+      "Blonde, tall, accent that melts you—premium Russian call girls are the signature of the best escort service in Delhi NCR, available from ₹6 k per hour.",
     icon: "/path-to-your-icon5.svg",
     image: "/images/client-5.webp",
   },
   {
     title: "PAY PER HOUR",
     description:
-      "Need Delhi Escorts but you are out of your budget? Don't worry, take our service and pay hourly after getting satisfaction.",
+      "No hidden charges, no upsells. Enjoy an hourly escort service in Mahipalpur, Gurgaon or anywhere in Delhi NCR and pay only for the time you use.",
     icon: "/path-to-your-icon6.svg",
     image: "/images/client-6.webp",
   },
@@ -184,31 +184,31 @@ const pillars = [
   {
     title: "Airhostess Escorts",
     description:
-      "Air hostess escorts refers to individuals who provide escort services and have a background or experience working as air hostesses or flight attendants in the airline industry.",
+      "Slim, multi-lingual and passport-ready—our ex-cabin-crew companions bring first-class hospitality to your hotel room. Book an air-hostess escort service in Mahipalpur near the airport and she’ll land at your door in uniform.",
     image: "/images/IA BY @MUNNDLY (1).webp", // Add your image path here
   },
   {
     title: "College Girls Escorts",
     description:
-      "College girls escorts refers to individuals who are currently enrolled in college or university and offer escort services. These escorts are typically young women pursuing higher education.",
+      "19–23 yrs, fresh on the scene and naturally curious. These university students are the reason clients call us the best escort service in Delhi for young, energetic girlfriend experiences.",
     image: "/images/download (31).webp", // Add your image path here
   },
   {
     title: "Hign Profile Escorts",
     description:
-      "Air hostess escorts refers to individuals who provide escort services and have a background or experience working as air hostesses or flight attendants in the airline industry.",
+      "Page-3 faces, Instagram influencers and luxury-travel companions. Discretion is guaranteed when you order a high-profile escort service in South Delhi or Gurgaon for five-star stays.",
     image: "/images/imagee.webp", // Add your image path here
   },
   {
     title: "Housewife Escorts",
     description:
-      "College girls escorts refers to individuals who are currently enrolled in college or university and offer escort services. These escorts are typically young women pursuing higher education.",
+      "Mature, busty and skilled in every trick a husband wishes for. Our unsatisfied housewife escort service in Dwarka offers real women who love long afternoons of pampering.",
     image: "/images/housewife.webp", // Add your image path here
   },
   {
     title: "Independent Escorts",
     description:
-      "Air hostess escorts refers to individuals who provide escort services and have a background or experience working as air hostesses or flight attendants in the airline industry.",
+      "No agency middle-man—chat directly with verified independents who set their own rates and rules. Choose an independent escort service in Noida for flexible, one-to-one chemistry.",
     image: "/images/image2.webp", // Add your image path here
   },
   {
@@ -220,25 +220,25 @@ const pillars = [
   {
     title: "Party Girl Escorts",
     description:
-      "Air hostess escorts refers to individuals who provide escort services and have a background or experience working as air hostesses or flight attendants in the airline industry.",
+      "Bottle-service beauties who know every DJ in Connaught Place. Book a party-girl escort service in South Delhi and hit the clubs with a plus-one who dances like she’s on your private playlist.",
     image: "/images/Evie Lee Mikomin.webp", // Add your image path here
   },
   {
     title: "Russian Escorts",
     description:
-      "College girls escorts refers to individuals who are currently enrolled in college or university and offer escort services. These escorts are typically young women pursuing higher education.",
+      "Accent, attitude and ice-blonde glamour. Our Russian escort service in Gurgaon and Mahipalpur ships real Moscow & St. Petersburg models to your hotel within 30 minutes—no fake profiles, no Photoshop.",
     image: "/images/download (7).webp", // Add your image path here
   },
   {
     title: "Strip Escorts",
     description:
-      "College girls escorts refers to individuals who are currently enrolled in college or university and offer escort services. These escorts are typically young women pursuing higher education.",
+      "Curious about a one-on-one lap dance that ends exactly where you want? Reserve a strip-escort service in Dwarka and she’ll bring music, lights and costumes to turn your suite into a private showroom.",
     image: "/images/download (12).webp", // Add your image path here
   },
   {
     title: "VIP Escorts",
     description:
-      "College girls escorts refers to individuals who are currently enrolled in college or university and offer escort services. These escorts are typically young women pursuing higher education.",
+      "Red-carpet ready, NDAs signed on request. When only the best escort service in Delhi will do, our VIP tier supplies Bollywood-level stunners for corporate galas, destination weddings and yacht weekends.",
     image: "/images/download (13).webp", // Add your image path here
   },
   // Add more categories as needed
@@ -258,16 +258,11 @@ const pillars = [
 
   <div className="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
     <h1 className="text-4xl md:text-5xl font-black tracking-tight mb-6">
-      Delhi Escorts – Premium & Trusted Escort Services in Delhi
+      Escort Service in Delhi – Premium & Trusted Delhi Escorts
     </h1>
 
     <p className="text-lg md:text-xl leading-relaxed max-w-3xl mx-auto">
-      Delhi ek vibrant aur fast-moving city hai jahan log luxury, comfort aur
-      companionship ko value karte hain. Hum Delhi escort service ke through
-      aapko ek safe, private aur high-quality experience provide karte hain.
-      Chahe aap business trip par ho, solo traveler ho ya simply kisi special
-      companion ki talash me ho, humari escort services aapki expectations ko
-      samajh kar design ki gayi hain. Discretion aur privacy humari priority hai.
+      Our escort service in Delhi is fully safe and private—no broker, no leak. Be it Aerocity, Dwarka, South Delhi or Mahipalpur, a verified girl reaches you within 30 min. We send live photo first; if you like, book—cash only after she knocks. First-visit discount running, just WhatsApp now and enjoy the best escort service in Delhi.
     </p>
 
     <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
@@ -337,7 +332,7 @@ const pillars = [
     {/* Heading */}
     <div className="text-center max-w-3xl mx-auto mb-20">
       <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight">
-        Why Our Delhi Escort Services Are Different
+        Why We’re the Best Escort Service in Delhi NCR
       </h2>
       <p className="mt-5 text-gray-300 text-lg leading-relaxed">
         Hum sirf escort service nahi dete — hum ek refined, discreet aur premium
@@ -354,9 +349,7 @@ const pillars = [
           Professionally Trained Companions
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Har escort ko professionally train kiya jata hai taaki wo har situation me
-          confident, respectful aur comfortable rahe. Communication skills aur etiquette
-          par special focus hota hai.
+          Every woman on our roster is coached in etiquette, conversation and discretion—whether you book an escort service in South Delhi or a quick lunchtime escape in Mahipalpur, she arrives polished and prepared.
         </p>
       </div>
 
@@ -366,8 +359,7 @@ const pillars = [
           Flexible & Reliable Services
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Chahe aap luxury hotel me ho, private residence me ya kisi special event ke liye
-          companion chahte ho — humari services flexible aur time-focused hoti hain.
+          Flight delayed? Meeting running late? Tell us and we reshuffle instantly. Our escort service in Gurgaon, Noida or Dwarka reaches your door within 30 minutes—no excuses, no cancellations.
         </p>
       </div>
 
@@ -377,8 +369,7 @@ const pillars = [
           Customized Client Experience
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Har client ki expectation alag hoti hai. Isi liye hum personalized options
-          offer karte hain jisse aapko ek natural aur pressure-free experience mile.
+          Prefer a slow GFE dinner followed by overnight cuddles? Or a 90-minute strip-lap session? Check the menu, mix the ingredients; the best escort service in Delhi is the one that feels like you wrote the script.
         </p>
       </div>
 
@@ -388,8 +379,7 @@ const pillars = [
           Discretion & Privacy Guaranteed
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Client confidentiality humari top priority hai. Aapki identity, booking details
-          aur conversations puri tarah private aur secure rehti hain.
+          Encrypted bookings, cash or UPI, no names stored. From five-star hotels to private apartments, your identity stays sealed—that’s why VIPs choose our escort service in Delhi NCR for repeat, risk-free fun.
         </p>
       </div>
 
@@ -399,8 +389,7 @@ const pillars = [
           Transparent & Honest Approach
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          No fake promises, no hidden charges. Transparency aur honesty humari working
-          style ka core part hai — isi wajah se clients baar-baar wapas aate hain.
+          ₹6 k to ₹25 k brackets published on every profile. No hidden taxi charges, no last-minute “upgrade” calls. Clients call us the most trusted escort service in Delhi because the invoice always matches the quote.
         </p>
       </div>
 
@@ -410,14 +399,14 @@ const pillars = [
           Long-Term Trust & Relationships
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Humara goal sirf ek booking nahi, balki long-term trust build karna hai —
-          jahan clients bina hesitation repeat experience enjoy kar saken.
+          60 % of our monthly slots are pre-booked by returning guests. When you find the perfect Russian escort in Delhi or a busty housewife in Dwarka, her direct contact is saved—so next time you skip the agency queue.
         </p>
       </div>
 
     </div>
   </div>
 </section>
+
 <section className="bg-slate-50 dark:bg-slate-900 py-16 px-6">
       <div className="max-w-6xl mx-auto">
         {/* Heading */}
