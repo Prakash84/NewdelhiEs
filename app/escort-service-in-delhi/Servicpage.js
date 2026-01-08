@@ -3,6 +3,8 @@
 import Link from 'next/link';
 import Image from "next/image";
 import { FaCrown, FaUserFriends, FaGraduationCap, FaStar, FaPlane } from 'react-icons/fa';
+import { FaWhatsapp, FaInstagram } from "react-icons/fa";
+import { motion } from 'framer-motion';
 
 export default function Servicpage() {
     const services = [
@@ -251,6 +253,89 @@ const pillars = [
   },
   // Add more categories as needed
 ];
+
+const teamMembers = [
+    {
+      name: "Chelsea Foster",
+      designation: "Spa Therapist",
+      image: "/images/These Fashion1.webp",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+    {
+      name: "Lane Parsons",
+      designation: "Spa Therapist",
+      image: "/images/Evie Lee Mikomin.webp",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+    {
+      name: "Haven West",
+      designation: "Spa Therapist",
+      image: "/images/ESESS.webp",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+    {
+      name: "Avery Grace",
+      designation: "Spa Therapist",
+      image: "/images/download (53).webp",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+    {
+      name: "Chelsea Foster",
+      designation: "Spa Therapist",
+      image: "/images/download (24).jpg",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+    {
+      name: "Lane Parsons",
+      designation: "Spa Therapist",
+      image: "/images/anaa - Linkfly.webp",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+    {
+      name: "Haven West",
+      designation: "Spa Therapist",
+      image: "/images/download (52).webp",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+    {
+      name: "Avery Grace",
+      designation: "Spa Therapist",
+      image: "/images/download (50).webp",
+      socials: {
+        WhatsApp: "https://api.whatsapp.com/send?phone=919217255113",
+        instagram: "https://www.instagram.com/delhi.luxury_spa/",
+        // twitter: "https://twitter.com",
+      },
+    },
+  ];
   return (
     <>
     <section
@@ -311,6 +396,72 @@ const pillars = [
       ))}
     </div>
         {/* hOT End Service */}
+        <section className="py-16 px-4 ">
+        <div className="max-w-7xl mx-auto">
+          
+          <div className="text-center mb-16">
+          <motion.p
+            className="text-amber-300 uppercase font-semibold tracking-wider mb-4"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true }}
+          >
+            About Our Delhi Escort Service
+          </motion.p>
+          
+          <motion.h2
+            className="text-3xl md:text-5xl font-bold text-black-900 font-serif mb-4"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+          >
+            Meet Independent Escorts in Delhi with College Girls & Foreign profile<span className="text-black-600"> </span>
+          </motion.h2>
+          
+          <motion.p
+            className="text-gray-600 max-w-6xl mx-auto text-lg"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.1 }}
+            viewport={{ once: true }}
+          >
+             Craving variety without juggling four agencies? One elite escort service in Delhi brings Moscow blondes, jet-setting airhostesses, giggly college teens and voluptuous busty MILFs under the same digital roof. Russian escorts fly in on 30-day tourist visas, carry hotel security passes and speak fluent English—perfect for business dinners in Gurgaon or pool-side weekends in South Delhi. Ex-cabin-crew airhostesses add first-class hospitality: they’ll mix your drink, massage jet-lag away and still look immaculate at 6 a.m. check-out. College girls (19-23) balance tuition and thrill, offering raw, energetic GFE that older call girls in Delhi can’t fake. Busty housewives overflow lace bras and love slow boob-worship that ends only when you tap out. Every category is selfie-verified, Covid-vaccinated and reviewed by previous clients, so you pick exactly the fantasy you paid for. One WhatsApp group hosts separate galleries for each type—tap, compare, book; your elite escort service in Delhi match lands in 30 minutes.
+          </motion.p>
+        </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+            {teamMembers.map((member, idx) => (
+              <motion.div
+                key={idx}
+                whileHover={{ scale: 1.05 }}
+                className="bg-white rounded-2xl shadow-md overflow-hidden text-center relative group"
+              >
+                <div className="relative h-96 overflow-hidden">
+                  <Image
+                  loading="lazy"
+                    src={member.image}
+                    alt={member.name}
+                    width={400}
+                    height={400}
+                    className="object-cover w-full h-full group-hover:scale-110 transition-transform duration-500"
+                  />
+                  <div className="absolute bottom-0 left-0 right-0 bg-black/60 p-4">
+                    <h3 className="text-white text-xl font-semibold">
+                      {member.name}
+                    </h3>
+                    <p className="text-yellow-300">{member.designation}</p>
+                  </div>
+                </div>
+                <div className="flex justify-center gap-4 mt-4 pb-4">
+                  <a href={member.socials.WhatsApp} target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-yellow-700 text-xl"><FaWhatsapp /></a>
+                  <a href={member.socials.instagram} target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-yellow-700 text-xl"><FaInstagram /></a>
+                  {/* <a href={member.socials.twitter} target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-yellow-700 text-xl"><FaTwitter /></a> */}
+                </div>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+      </section>
         {/* Service */}
         <div className="max-w-6xl mx-auto space-y-6">
           {/* Heading */}
