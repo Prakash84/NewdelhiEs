@@ -238,7 +238,7 @@ const [openIndex, setOpenIndex] = useState<number | null>(null);
   return (
     <>
     <section
-  className="relative text-white"
+  className="relative text-white mb-10"
   style={{
     backgroundImage: `
       url('/images/SexyWomen.webp')
@@ -253,7 +253,7 @@ const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   <div className="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
     <h1 className="text-4xl md:text-5xl font-black tracking-tight mb-5">
-       What Are Independent Escorts in Delhi?
+       High-Profile Independent Escorts in Delhi – Verified College Girls
     </h1>
 
     <p className="text-lg md:text-xl leading-relaxed max-w-3xl mx-auto mb-8">
@@ -270,8 +270,17 @@ const [openIndex, setOpenIndex] = useState<number | null>(null);
   </div>
 </section>
 
-<div className="max-w-6xl mx-auto space-y-6">
-          {/* Heading */}
+<div className="max-w-6xl mx-auto space-y-6 mt20">
+          {/* Header */}
+        <div className="text-center mb-10">
+          
+          <h2 className="text-3xl md:text-4xl font-semibold text-gray-900 mb-5">
+            Russian, College, Airhostess, High-Profile & Independent Escorts in Delhi Delivered in 30 Minutes
+          </h2>
+          <p className="max-w-4xl mx-auto text-gray-600 text-lg">
+           Browse Delhi escorts and pick from one verified menu: Slavic blondes, DU campus girls, cabin-crew stunners, Page-3 celebs and curvy MILFs. Each escort services in delhi profile is selfie-checked before dispatch, so the delhi girl you choose is the one who taps your door within thirty minutes across Delhi, Noida, Gurgaon, Mahipalpur or South Delhi. Prices start at ₹7 k for college cuties, ₹10 k for Russian escort, ₹20 k for high-profile elegance; all include discreet cab, hotel pass and extend-by-the-hour flexibility. Search “escort services in delhi” with any category keyword and book the capital’s fastest fantasy delivery now.
+          </p>
+        </div>
         
       {services1.map((service, index) => (
         <div key={index} className="flex items-start space-x-4 p-4 border-b border-gray-300">
