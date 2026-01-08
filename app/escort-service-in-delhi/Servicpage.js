@@ -74,9 +74,9 @@ const points = [
   },
 ];
 const steps = [
-  { num: 1, title: 'Profile select karein', icon: '👤' },
-  { num: 2, title: 'WhatsApp par availability check karein', icon: '💬' },
-  { num: 3, title: 'Time & location confirm karein', icon: '📍' },
+  { num: 1, title: 'select Profile', icon: '👤' },
+  { num: 2, title: 'check availability throught WhatsApp', icon: '💬' },
+  { num: 3, title: 'confirm Time & location ', icon: '📍' },
   { num: 4, title: 'Relax and enjoy premium companionship', icon: '✨' },
 ];
 const pillars = [
@@ -345,13 +345,19 @@ const pillars = [
   <div className="relative max-w-7xl mx-auto px-6">
     
     {/* Heading */}
-    <div className="text-center max-w-3xl mx-auto mb-20">
+    <div className="text-center max-w-7xl mx-auto">
       <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight">
         Why We’re the Best Escort Service in Delhi NCR
       </h2>
+      {/* <p className="mt-5 text-gray-300 text-lg leading-relaxed">
+        When the capital’s lights dim, only one name shines: our escort services in Delhi. We merge five-star polish with neighbourhood speed, delivering verified Delhi girls—from DU university girls to jet-set Russians—within 30 minutes across Delhi, Noida, Gurgaon, Dwarka and Mahipalpur. Zero hidden fees, zero cat-fish, zero stress. Every escort girl is selfie-checked, health-screened and hotel-security cleared before she knocks. Encrypted WhatsApp, spouse-proof billing and 24×7 human support mean your pleasure stays private and painless. Whether you crave a bubbly service girl for a pool-party or a high-profile stunner for a corporate gala, our Delhi escorts services cover every postcode and every fantasy under one digital roof. That is why repeat clients crown us the best escort service in Delhi NCR—real girls, real prices, real-time delivery.
+
+      </p> */}
+    </div>
+    <div className="text-center max-w-6xl mx-auto mb-20">
       <p className="mt-5 text-gray-300 text-lg leading-relaxed">
-        Hum sirf escort service nahi dete — hum ek refined, discreet aur premium
-        companionship experience create karte hain jo trust aur comfort par based hota hai.
+        When the capital’s lights dim, only one name shines: our escort services in Delhi. We merge five-star polish with neighbourhood speed, delivering verified Delhi girls—from DU university girls to jet-set Russians—within 30 minutes across Delhi, Noida, Gurgaon, Dwarka and Mahipalpur. Zero hidden fees, zero cat-fish, zero stress. Every escort girl is selfie-checked, health-screened and hotel-security cleared before she knocks. Encrypted WhatsApp, spouse-proof billing and 24×7 human support mean your pleasure stays private and painless. Whether you crave a bubbly service girl for a pool-party or a high-profile stunner for a corporate gala, our Delhi escorts services cover every postcode and every fantasy under one digital roof. That is why repeat clients crown us the best escort service in Delhi NCR—real girls, real prices, real-time delivery.
+
       </p>
     </div>
 
@@ -361,60 +367,60 @@ const pillars = [
       {/* Card 1 */}
       <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl p-8 hover:border-fuchsia-500 transition">
         <h3 className="text-xl font-bold mb-4 text-fuchsia-400">
-          Professionally Trained Companions
+          Lightning-Fast Delhi Delivery 
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Every woman on our roster is coached in etiquette, conversation and discretion—whether you book an escort service in South Delhi or a quick lunchtime escape in Mahipalpur, she arrives polished and prepared.
+         Tap “Book” and watch the clock—our escort services in Delhi guarantee 30-minute arrival from India Gate to Dwarka. A live GPS mesh tracks every Delhi girl, DU university girl and Russian model in real time, so your driver updates you kilometre by kilometre. If we miss the window, the first hour is free—no excuses, no “traffic” stories. The same promise covers Noida escort services and Gurgaon escort bookings, making our Delhi escorts services the fastest cross-border relay in the capital. Whether you land at IGIA at 2 a.m. or finish a late dinner in CP, a verified escort girl is already en-route, uniform-ready for seamless hotel entry. Speed without safety is useless; that is why every service girl carries a pre-approved visitor pass, so she glides past reception while you pour the welcome drink. Save our number once and never again scroll through fake ads—real speed, real Delhi girls, real-time pleasure.
         </p>
       </div>
 
       {/* Card 2 */}
       <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl p-8 hover:border-fuchsia-500 transition">
         <h3 className="text-xl font-bold mb-4 text-fuchsia-400">
-          Flexible & Reliable Services
+          Zero-Trace Privacy Promise
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Flight delayed? Meeting running late? Tell us and we reshuffle instantly. Our escort service in Gurgaon, Noida or Dwarka reaches your door within 30 minutes—no excuses, no cancellations.
+          Privacy is not a feature—it is the foundation of our escort services in Delhi. Every chat runs on end-to-end encrypted WhatsApp that auto-wipes in 24 hours; bank tags read “consultancy,” so spouses never see “Noida escort services” on statements. The escort girl never asks for your full name—first name or alias is enough. Check-in protocols are pre-arranged: the Delhi girl shows her visitor slip, security nods, you receive a room key—zero paperwork, zero questions. For home visits, drivers park two blocks away and walk the final stretch under dim street-lights. Cash payments are sealed in opaque envelopes; UPI receipts carry neutral descriptors. Whether you book a DU university girl for a quick lunch-break or a high-profile stunner for overnight Delhi hotel services, your secret stays locked. We even provide optional NDAs for celebrities and CEOs. Delhi escorts services should feel like invisible magic—ours do.
         </p>
       </div>
 
       {/* Card 3 */}
       <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl p-8 hover:border-fuchsia-500 transition">
         <h3 className="text-xl font-bold mb-4 text-fuchsia-400">
-          Customized Client Experience
+         Verified Visuals – No Catfish, Ever
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Prefer a slow GFE dinner followed by overnight cuddles? Or a 90-minute strip-lap session? Check the menu, mix the ingredients; the best escort service in Delhi is the one that feels like you wrote the script.
+         Swipe fatigue ends here. Our Delhi escorts services demand a live selfie within 60 seconds of booking; the image must include the day’s date and your name scribbled on paper. If the escort girl fails, we send a replacement or refund instantly—no negotiation. Every profile—college teen, busty housewife, Russian model—is re-verified monthly for health, age and photo accuracy. DU university girls submit valid ID; high-profile girls provide social-media handles for cross-check. The result: the Delhi girl who knocks is the girl you picked—same height, same curves, same smile. Verification extends to Noida escort services and Gurgaon bookings, ensuring service girls across NCR meet one gold standard. No Photoshop, no five-year-old glamour shots, no bait-and-switch. Simply demand “live pic” on WhatsApp and receive a fresh snapshot that makes waiting half an hour feel like Christmas morning.
         </p>
       </div>
 
       {/* Card 4 */}
       <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl p-8 hover:border-fuchsia-500 transition">
         <h3 className="text-xl font-bold mb-4 text-fuchsia-400">
-          Discretion & Privacy Guaranteed
+          Flat-Rate Transparency
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          Encrypted bookings, cash or UPI, no names stored. From five-star hotels to private apartments, your identity stays sealed—that’s why VIPs choose our escort service in Delhi NCR for repeat, risk-free fun.
+         Quote = gospel. Our escort services in Delhi list every rupee upfront—hourly fee, cab, condoms, costumes, even the strawberries you didn’t order. Extend mid-session? The meter continues at exactly 50% of the hourly rate, displayed in real time on your phone. Gurgaon escort bookings carry zero “toll surcharge”; Noida escort services skip phantom “late-night fee.” Invoices email as neutral “consultancy,” keeping banks and spouses blind. If a Delhi girl overstays by mutual fun, extra minutes are rounded down, never up. Tips are optional, never solicited. We publish a live price grid updated weekly, so a service girl in South Delhi costs the same tonight as next month. That iron-clad honesty is why Reddit threads crown us the most transparent Delhi escorts services—pleasure without pocket-pinching surprises.
         </p>
       </div>
 
       {/* Card 5 */}
       <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl p-8 hover:border-fuchsia-500 transition">
         <h3 className="text-xl font-bold mb-4 text-fuchsia-400">
-          Transparent & Honest Approach
+          24×7 Human Support – No Bots, No Hold Music
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          ₹6 k to ₹25 k brackets published on every profile. No hidden taxi charges, no last-minute “upgrade” calls. Clients call us the most trusted escort service in Delhi because the invoice always matches the quote.
+          At 3 a.m. you need answers, not automated emojis. One WhatsApp number connects you to living, breathing coordinators who can swap a college girl for a high-profile girl, book a last-minute Delhi hotel services room, or split payments between card and cash. The same team tracks your escort girl live, sends driver updates and checks “safe word” comfort after 30 minutes. We speak Hindi, English and basic Russian for Moscow models. Whether you’re stuck in Gurugram traffic or need a Noida escort service at dawn, a human replies within 90 seconds—no bots, no IVR loops. Support stays online until you text “all good,” making our Delhi escorts services the friendliest hotline in the capital.
         </p>
       </div>
 
       {/* Card 6 */}
       <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl p-8 hover:border-fuchsia-500 transition">
         <h3 className="text-xl font-bold mb-4 text-fuchsia-400">
-          Long-Term Trust & Relationships
+          Elite Variety – One Roof, Every Fantasy
         </h3>
         <p className="text-gray-300 leading-relaxed">
-          60 % of our monthly slots are pre-booked by returning guests. When you find the perfect Russian escort in Delhi or a busty housewife in Dwarka, her direct contact is saved—so next time you skip the agency queue.
+          DU university girls cramming for exams, ex-airhostesses who served champagne at 30,000 ft, busty housewives chasing lost thrills, Instagram-verified high-profile girls with 50k followers—our escort services in Delhi stock them all. Filter by age, language, bust size or kink; receive matching selfies in under a minute. Fancy a Gurgaon escort who speaks fluent French? Or a Noida escort service girl who can twerk to Punjabi beats? We’ve got her. Each service girl is health-screened monthly, trained in five-star hospitality and briefed on hotel key-card quirks. One menu, infinite flavours—no need to juggle multiple agencies. That depth is why pleasure-seekers label us the ultimate Delhi escorts services supermarket.
         </p>
       </div>
 
