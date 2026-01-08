@@ -435,7 +435,7 @@ const pillars = [
           Our Escort Service Categories
         </h2>
         <p className="text-center text-slate-600 dark:text-slate-300 mb-12 max-w-3xl mx-auto">
-          Har category ko different preferences aur comfort levels ke according design kiya gaya hai.
+          Each category is designed according to different preferences and comfort levels.
         </p>
 
         {/* Cards Grid */}
