@@ -313,6 +313,13 @@ const pillars = [
         {/* hOT End Service */}
         {/* Service */}
         <div className="max-w-6xl mx-auto space-y-6">
+          {/* Heading */}
+        <h2 className="text-2xl md:text-2xl font-extrabold text-center text-slate-900 dark:text-white mb-4">
+          Russian, Airhostess, College & Busty – Elite Escort Service in Delhi for Every Desire
+        </h2>
+        <p className="text-center text-slate-600 dark:text-slate-300 mb-12 max-w-3xl mx-auto">
+          Book Tonight – Premium Escort Service in Delhi Covering Gurgaon, Noida, Dwarka, Mahipalpur & South Delh
+        </p>
       {services1.map((service, index) => (
         <div key={index} className="flex items-start space-x-4 p-4 border-b border-gray-300">
           <div className="w-14 h-14 flex-shrink-0">
