@@ -921,7 +921,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
           <div className="border border-neutral-700 rounded-xl p-6">
             <h3 className="text-amber-400 font-semibold mb-2">Verified & Real profiles</h3>
             <p className="text-sm leading-relaxed">
-            Live selfie of real Delhi escorts in 30 sec.
+            Demand a live selfie and receive it within 30 seconds; every Delhi escort, genuine college girl and high profile girl matches the gallery pixel to pixel. If the call girl services image feels outdated we refund before the cab rolls, so you only meet the real escort girl you selected.
             </p>
           </div>
 
@@ -929,7 +929,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
           <div className="border border-neutral-700 rounded-xl p-6">
             <h3 className="text-amber-400 font-semibold mb-2">Privacy & Discretion</h3>
             <p className="text-sm leading-relaxed">
-          Your UPI or cash leaves zero trace—book Noida escorts tension-free.
+          Cash or UPI, your bank sees only “consultancy,” never “call girl services.” Whether you book a massage girl for a quick stress-buster or a Noida escort for overnight fun, digital breadcrumbs vanish in 24 hours, keeping spouses and auditors blissfully unaware.
             </p>
           </div>
 
@@ -937,7 +937,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
           <div className="border border-neutral-700 rounded-xl p-6">
             <h3 className="text-amber-400 font-semibold mb-2">No advance & No hidden Charges</h3>
             <p className="text-sm leading-relaxed">
-              If chosen Gurgaon escorts can’t reach on time, we say it before you pay.
+              Gurgaon escort delayed by traffic? We confess before you open Google Pay—zero taxi surprises, zero cancellation penalties. From a simple massage girl to a full-night high profile girl, the quote is the final invoice, making our Delhi girl experience the most transparent in town.
             </p>
           </div>
 
@@ -945,7 +945,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
           <div className="border border-neutral-700 rounded-xl p-6">
             <h3 className="text-amber-400 font-semibold mb-2">Friendly 24×7 Support</h3>
             <p className="text-sm leading-relaxed">
-             One WhatsApp handles Aerocity escorts queries at 3 a.m. also.
+             One WhatsApp number answers Aerocity escort questions at 3 a.m.—no bots, no hold music. Need a college girl after last-call? Want to switch from hourly to overnight? Our human team toggles availability faster than you can spell “call girl services.”
             </p>
           </div>
 
@@ -953,7 +953,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
           <div className="border border-neutral-700 rounded-xl p-6">
             <h3 className="text-amber-400 font-semibold mb-2">Transparent Process</h3>
             <p className="text-sm leading-relaxed">
-             Profile → selfie → location share → arrival; no hidden cab fee for Delhi escorts.
+            Pick profile, get selfie, share location, track arrival—no secret cab fee, no last-minute “night-stay” upsell. Whether you choose a South Delhi high profile girl or a Dwarka college girl, the map and meter are live-streamed so you watch every kilometre and minute.
             </p>
           </div>
 
@@ -961,7 +961,7 @@ We’re local Delhi boys, so we know which hotels allow guests without key-card 
           <div className="border border-neutral-700 rounded-xl p-6">
             <h3 className="text-amber-400 font-semibold mb-2">corporative girls</h3>
             <p className="text-sm leading-relaxed">
-              Big-agency polish, neighbourhood speed—our escort service in Delhi knows which hotel lifts need key-cards.
+             Neighbourhood speed, five-star polish—our escort girl squad knows which hotel lifts need key-cards, which lobbies ignore walk-ins, and how to smile at security while whisking you to paradise. From a shy massage girl to a cat-walk service girl, every Delhi girl is briefed to blend, bend and never offend.
             </p>
           </div>
         </div>
