@@ -148,36 +148,44 @@ const pillars = [
 ];
   const faqs = [
     {
-      q: "Is the service discreet?",
-      a: "Absolutely—companions arrive in plain Uber or private cabs, use your chosen alias at reception, and leave no paper or digital trail."
+      q: "Is escort service in Delhi legal?",
+      a: "We charge for time & companionship; anything else is consensual adult decision—100% legal."
     },
     {
-      q: "How do I book?",
-      a: "Browse profiles, tap the WhatsApp icon, send name + preferred time & location. We confirm availability within 5 minutes and share live tracking."
+      q: "Do you offer escort service in Gurgaon at budget hotels?",
+      a: "Yes—Oyo, Treebo, Ibis, PGs; small security deposit may apply."
     },
     {
-      q: "Do you provide same-day service?",
-      a: "Yes, 90 % of bookings are fulfilled within 45 minutes across Delhi-NCR; peak hours may stretch to 75 minutes—always communicated upfront."
+      q: "Can I cancel last-minute?",
+      a: "20% advance refunded if cancelled 2 hours before meet; driver en-route forfeits it."
     },
     {
-      q: "Which areas of Delhi are covered?",
-      a: "Aerocity, Connaught Place, South Delhi, Gurgaon, Noida, Dwarka, Nehru Place and 30+ micro-markets—no travel surcharge inside NCR."
+      q: "Are condoms compulsory for CIM?",
+      a: "Dental dam available; bare CIM requires fresh STI slip from both sides—no exceptions."
     },
     {
-      q: "Is privacy guaranteed?",
-      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+      q: "Do Russian escorts speak Hindi?",
+      a: "Basic Hindi; fluent English. Google Translate on standby."
     },
     {
-      q: "Is privacy guaranteed?",
-      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+      q: "How discreet is the escort service in Noida?",
+      a: "Girl uses guest stairs, no ID at desk, WhatsApp chat auto-deletes after 24 h."
     },
     {
-      q: "Is privacy guaranteed?",
-      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+      q: "Do you store my data?",
+      a: "Zero logs. Phone numbers hash-scrambled every midnight."
     },
     {
-      q: "Is privacy guaranteed?",
-      a: "Encrypted chats auto-delete in 24 h, no ID copies stored, optional NDA available. We have served diplomats and Fortune-500 execs without a single leak."
+      q: "Can I extend hours mid-session?",
+      a: "Text “+30” or “+60”; girl clocks new time, you pay pro-rata rate, continue."
+    },
+    {
+      q: "Are photos real?",
+      a: " Verified against live selfie within 60 seconds—no Photoshop, no bait-and-switch."
+    },
+    {
+      q: "What makes you the best escort service in Delhi?",
+      a: "Verified girls, transparent pricing, 30-minute delivery across Delhi NCR, 24/7 live support, legal compliance, zero-data policy."
     },
   ];
   const services1= [
@@ -454,18 +462,15 @@ const pillars = [
       </div>
     </section>
     <section className="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-16 px-6">
-      <div className="max-w-5xl mx-auto text-center">
+      <div className="max-w-6xl mx-auto text-center">
         {/* Heading */}
-        <h2 className="text-3xl md:text-4xl font-extrabold mb-4">
-          Escort Services Across Delhi NCR
+        <h2 className="text-2xl md:text-3xl font-extrabold mb-4">
+          Book Tonight – Premium Escort Service in Delhi Covering Gurgaon, Noida, Dwarka, Mahipalpur & South Delhi
         </h2>
 
         {/* Sub-text */}
-        <p className="text-slate-300 mb-10 max-w-3xl mx-auto">
-          Hum Delhi ke almost har major area me services provide karte hain. Chahe aap
-          airport ke paas ho ya central Delhi me, hum timely aur hassle-free service
-          ensure karte hain. Location ke hisaab se profiles suggest ki jati hain taaki
-          travel delay na ho.
+        <p className="text-slate-300 mb-10 max-w-4xl mx-auto">
+         Why limit pleasure to one pin-code? Our premium escort service in Delhi operates a NCR-wide relay network: Gurgaon cyber-hub girls reach Sector 18 Noida in 35 minutes; Dwarka MILFs cross into Mahipalpur terminals in 15; South Delhi models glide to Khan Market suites in 20. One central dispatch hub tracks traffic, flight delays and hotel security lines live, so your call girl in Delhi arrives before ice melts in your whisky. Book anytime after 7 p.m. for same-night delivery; advance booking unlocks complimentary airport pickup and breakfast-in-bed. Pricing stays consistent across regions—no “Gurgaon surcharge” or “Noida toll” gimmicks. Pay per hour, extend on location, or lock an overnight package and save 25%. Whether you need a sultry escort service in Gurgaon for a corporate gala, a playful escort service in Noida for a house-party, or discreet Mahipalpur fun during a layover, one message secures the premium escort service in Delhi that covers the entire map—tonight, tomorrow, whenever desire calls.
         </p>
 
         {/* Location Pills */}
@@ -512,6 +517,49 @@ const pillars = [
         </div>
       </div>
     </section>
+    <section className="bg-black py-20">
+      <div className="max-w-7xl mx-auto px-6 text-center">
+
+        <h2 className="text-3xl md:text-4xl font-extrabold text-white mb-6">
+           Escort Service in Delhi One Click Away – Contact Us Now
+        </h2>
+
+        <p className="text-gray-300 leading-relaxed max-w-3xl mx-auto mb-8">
+         Stop hunting. One WhatsApp button brings the best escort service in Delhi to your door in 30 minutes—whether you crave busty boobs, CIM, anal, Russian accent or a party girl who dances till sunrise. Pay hourly, extend instantly, travel together, keep zero traces. Click below, type your fantasy and let the capital’s most trusted escort service in Delhi make tonight unforgettable.
+        </p>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-gray-400 text-left max-w-4xl mx-auto mb-10">
+          <ul className="space-y-3">
+            <li>✓ Secure online booking for Delhi escorts</li>
+            <li>✓ WhatsApp for quick inquiries</li>
+            <li>✓ Email for detailed arrangements</li>
+          </ul>
+
+          <ul className="space-y-3">
+            <li>✓ Phone support for immediate assistance</li>
+            <li>✓ Same-day escort service availability</li>
+            <li>✓ Best escort service in Delhi NCR</li>
+          </ul>
+        </div>
+
+        <div className="flex flex-col sm:flex-row justify-center gap-4">
+          <a
+            href="https://wa.me/your-number"
+            className="bg-amber-500 text-black font-bold px-8 py-3 rounded-lg hover:bg-amber-400 transition"
+          >
+            Contact on WhatsApp
+          </a>
+
+          <a
+            href="/contact"
+            className="border border-amber-500 text-amber-300 font-semibold px-8 py-3 rounded-lg hover:bg-amber-500 hover:text-black transition"
+          >
+            Call Us Now
+          </a>
+        </div>
+
+      </div>
+    </section>
     <section className="bg-gradient-to-br from-fuchsia-600 to-indigo-700 text-white py-16 px-6">
       <div className="max-w-5xl mx-auto text-center">
         {/* Heading */}
@@ -542,32 +590,25 @@ const pillars = [
     </section>
     <section className="bg-white py-16 px-6">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-8 text-center">
-          Premium Independent Escorts in Delhi – Authentic, Discreet, Unforgettable
+        <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-8 text-center">
+         Best Escort Service in Delhi NCR – Real Girls, Real Prices, 30-Min Delivery
+        </h1>
+        <div className="prose prose-lg prose-gray mx-auto leading-relaxed text-gray-700">
+          <p>
+            When midnight hunger strikes, you order food; when desire strikes, you deserve the best escort service in Delhi that delivers faster than your favourite pizza. We stock 200+ verified profiles across Delhi NCR, Gurgaon, Noida, Dwarka, Mahipalpur and South Delhi, so a real call girl in Delhi is never more than 30 minutes away. Every companion is selfie-verified minutes before dispatch—no vintage photos, no look-alikes. Transparent per-hour pricing starts at ₹7 k for South Delhi and ₹6 k for Mahipalpur/Dwarka, including discreet cab fare. Extend on-the-spot without haggling; the meter simply continues. GPS tracking lets you watch the driver approach while you freshen up, and encrypted WhatsApp keeps your booking invisible to curious partners. Whether you crave a busty college teen or a Russian accent whispering “privet” at your hotel door, the best escort service in Delhi guarantees arrival in half an hour or the first hour is free. Save our number once, and you’ll never scramble through fake ads again.
+          </p>
+        </div>
+      </div>
+    </section>
+     <section className="bg-white py-16 px-6">
+      <div className="max-w-7xl mx-auto">
+        <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-8 text-center">
+         Transparent Escort Service in Delhi With Zero Hidden Fees
         </h1>
 
         <div className="prose prose-lg prose-gray mx-auto leading-relaxed text-gray-700">
           <p>
-            Welcome to DelhiEscorts.in, the capital’s most selective platform for luxury companionship.  
-            We hand-pick only independent, university-educated women who combine stunning looks with sharp intellect and warm, open hearts.  
-            Every profile is selfie-verified and re-approved monthly, guaranteeing that the girl who arrives at your suite is the same flawless beauty you admired online.  
-            Whether you are a busy executive landing at IGIA late tonight, a traveller seeking a plus-one for a cocktail rooftop in Aerocity, or a local gentleman craving genuine chemistry after endless video calls, we create moments that feel effortless, exciting and completely confidential.
-          </p>
-
-          <p>
-            Browse high-resolution portfolios, read honest client reviews and chat directly through end-to-end encrypted messages—no brokers, no upsells, no awkward surprises.  
-            Prefer a quiet wine evening at the Lodhi Hotel? A spontaneous drive to Neemrana Fort for sunset selfies? Or perhaps an indulgent four-hand massage followed by strawberries and laughter behind closed doors?  
-            Our companions tailor every encounter around your schedule, fantasies and comfort level, setting clear boundaries and safe-words before the first kiss.  
-            Discretion is woven into every step: your credit-card statement shows a neutral brand name, taxis drop off at lobby side entrances, and selfies taken together are automatically deleted when the date ends.
-          </p>
-
-          <p>
-            Beyond beauty, we value emotional intelligence. Each escort is trained in active listening, etiquette and after-care, ensuring you feel seen, respected and completely relaxed.  
-            Many speak fluent English, Hindi and French, hold degrees in fashion or psychology, and travel internationally on short notice—ideal companions for destination weddings in Udaipur or weekend escapes to Goa.  
-            Rates are transparent, hourly or overnight, with complimentary refreshments and lingerie styling included.  
-            Repeat clients enjoy priority booking, loyalty discounts and access to our private Telegram channel where new tours are announced first.  
-            Ready to meet someone who matches your energy and curiosity? Scroll down, click the WhatsApp button, and let us arrange an encounter that leaves you smiling for days.  
-            Delhi after dark has never felt this welcoming, this safe, this deliciously addictive.
+           Hidden charges kill the mood faster than a flat tyre. Our escort service in Delhi pioneered flat-rate honesty: the price quoted on WhatsApp is the final price you pay—taxi, condoms, costumes, even mild role-play props included. Check our dynamic price grid: escort service in Gurgaon and Noida start at ₹7 k per hour, escort service in Dwarka and Mahipalpur at ₹6 k, premium South Delhi locales at ₹8 k. Extend in 30-minute slices at exactly 50% of the hourly rate; no surprise “night-stay” upsell appears at 3 a.m. Invoices carry the neutral line “consultancy,” so bank statements stay spouse-proof. Tips are optional, never solicited. If the call girl in Delhi arrives and you feel she’s not the same person as her live selfie, we’ll UPI refund your advance before she turns around. That zero-risk transparency is why repeat clients label us the most transparent escort service in Delhi NCR—we put our money where your pleasure is.
           </p>
         </div>
       </div>
