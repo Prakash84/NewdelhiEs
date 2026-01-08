@@ -732,7 +732,7 @@ Book high-profile Delhi escorts first visit ₹1999 today
 
         {/* Right: Content */}
         <div>
-          <h2 className="text-3xl font-extrabold text-zinc-900 mb-4">
+          <h2 className="text-2xl font-extrabold text-zinc-900 mb-4">
             Feel Delhi Escorts Magic – Premium Escort Service in Delhi from CP to Aerocity
           </h2>
           <p className="text-zinc-700 leading-relaxed mb-6">
@@ -779,7 +779,7 @@ Book high-profile Delhi escorts first visit ₹1999 today
 
     <section className="py-16 bg-neutral-50">
       <div className="container mx-auto px-6 max-w-5xl">
-        <h2 className="text-3xl md:text-4xl font-bold text-neutral-900 mb-8">
+        <h2 className="text-3xl md:text-3xl font-bold text-neutral-900 mb-8">
           Delhi Escort Service for VIP Gentlemen – High Profile Escorts in Delhi Available Now
         </h2>
 
@@ -804,7 +804,7 @@ Book high-profile Delhi escorts first visit ₹1999 today
     </section>
     <section className="py-20 bg-gradient-to-b from-neutral-50 to-white">
       <div className="container mx-auto px-6 max-w-7xl">
-        <h2 className="text-4xl md:text-5xl font-extrabold text-neutral-900 mb-4 text-center">
+        <h2 className="text-4xl md:text-4xl font-extrabold text-neutral-900 mb-4 text-center">
           Travel Companions - Delhi Escorts for Manali, Goa & Rishikesh Trips
         </h2>
         <p className="text-center text-neutral-600 mb-12 max-w-5xl mx-auto">
