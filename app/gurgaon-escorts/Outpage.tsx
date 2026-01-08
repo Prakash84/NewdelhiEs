@@ -333,6 +333,82 @@ const hotelOutlets = [
 </section>
 
       {/* End outlets */}
+      <section className="bg-gradient-to-r from-amber-50 via-orange-50 to-yellow-50 py-20">
+      <div className="container mx-auto px-6 max-w-7xl">
+
+        {/* Top headline + icon */}
+        <div className="text-center mb-12">
+          <span className="inline-block bg-white rounded-full p-4 shadow-lg mb-4">
+            <span className="text-4xl">🌟</span>
+          </span>
+          <h2 className="text-4xl font-extrabold text-zinc-900">
+            Why Our Moments Feel Different
+          </h2>
+          <p className="text-zinc-600 mt-2">Luxury, laughter and zero logistics.</p>
+        </div>
+
+        {/* 2-column layout */}
+        <div className="grid md:grid-cols-5 gap-10 items-center">
+
+          {/* Left: big decorative image */}
+          <div className="md:col-span-2 relative">
+            <img
+              src="/images/I Held Her Tight.webp"
+              alt="Stylish Companion"
+              className="rounded-[2rem] shadow-2xl w-full"
+            />
+            <div className="absolute top-4 left-4 bg-white/80 backdrop-blur rounded-2xl px-3 py-2 text-xs font-semibold text-zinc-800 flex items-center gap-2">
+              <span>🔥</span> Editor’s Pick
+            </div>
+          </div>
+
+          {/* Right: content + feature chips */}
+          <div className="md:col-span-3">
+            <p className="text-zinc-700 leading-relaxed mb-5">
+              Step into a world where every glance, giggle and gentle touch is curated for your mood. Our companions are more than beautiful—they’re cultured conversationalists who can discuss Bordeaux vintages one minute and dance to lo-fi beats the next. Forget awkward small talk; we match you with someone who actually gets your jokes and remembers your favourite whisky.
+            </p>
+            <p className="text-zinc-700 leading-relaxed mb-5">
+              From the moment you confirm, our concierge quietly handles restaurant reservations, room ambience and even the Spotify playlist if you ask. No paperwork, no waiting in lobbies, no side-eye from hotel staff—just seamless entry into an evening that feels like a secret society built for two. And because every rupee is declared beforehand, the only surprise you’ll get is how quickly she learns the way you like your coffee the next morning.
+            </p>
+            <p className="text-zinc-700 leading-relaxed mb-6">
+              We call it the “invisible service” — you feel every luxury, yet never see the gears turning. That’s why 82 % of our guests come back. One taste of effortless chemistry and you’ll understand why ordinary feels too small a word.
+            </p>
+
+            {/* Icon chips */}
+            <div className="flex flex-wrap gap-3 mb-6">
+              <div className="flex items-center gap-2 bg-white rounded-full px-4 py-2 shadow text-sm">
+                <span>🎓</span> Cultured
+              </div>
+              <div className="flex items-center gap-2 bg-white rounded-full px-4 py-2 shadow text-sm">
+                <span>🍾</span> Concierge
+              </div>
+              <div className="flex items-center gap-2 bg-white rounded-full px-4 py-2 shadow text-sm">
+                <span>🎶</span> Playlists
+              </div>
+              <div className="flex items-center gap-2 bg-white rounded-full px-4 py-2 shadow text-sm">
+                <span>🔄</span> 82 % Re-book
+              </div>
+            </div>
+
+            {/* CTA */}
+            <div className="flex flex-wrap gap-4">
+              <a
+                href="https://wa.me/91XXXXXXXXXX"
+                className="inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-full font-semibold transition"
+              >
+                <span>⚡</span> Get Matched Now
+              </a>
+              <a
+                href="tel:+91XXXXXXXXXX"
+                className="inline-flex items-center gap-2 border border-zinc-300 text-zinc-800 px-6 py-3 rounded-full font-semibold hover:bg-zinc-100 transition"
+              >
+                <span>📞</span> Quick Call
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <section className="py-20 bg-neutral-50">
       <div className="container mx-auto px-6 max-w-7xl">
         <h2 className="text-4xl md:text-5xl font-extrabold text-neutral-900 mb-4 text-center">
@@ -382,6 +458,89 @@ const hotelOutlets = [
         </div>
       </div>
     </section>
+    <section className="bg-black text-gray-300 py-20">
+      <div className="container mx-auto px-6 max-w-6xl">
+        
+        {/* Header */}
+        <div className="text-center mb-14">
+          <h2 className="text-3xl md:text-4xl font-semibold text-white mb-4">
+            Why Book Independent Escorts Service in Delhi via DelhiEscorts.in?
+          </h2>
+          <p className="max-w-3xl mx-auto text-gray-400">
+            A smarter, safer, and more transparent way to connect with verified
+            independent escorts across Delhi NCR.
+          </p>
+        </div>
+
+        {/* Benefits Grid */}
+        <div className="grid md:grid-cols-2 gap-10">
+          
+          {/* Price */}
+          <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-2">
+              Price Advantage
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Save up to <span className="text-white">20–30%</span> by booking
+              directly with independent escorts. No agencies, no commissions,
+              and no hidden charges — you pay only for what you choose.
+            </p>
+          </div>
+
+          {/* Speed */}
+          <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-2">
+              Faster Booking
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Direct WhatsApp communication ensures quick responses and smooth
+              coordination, with availability across Delhi NCR in as little as
+              <span className="text-white"> 30 minutes</span>.
+            </p>
+          </div>
+
+          {/* Choice */}
+          <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-2">
+              Wide Choice
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Choose from <span className="text-white">200+ verified freelancers</span>,
+              including college companions, mature profiles, public-figure
+              lookalikes, and international escorts available in Delhi.
+            </p>
+          </div>
+
+          {/* Safety */}
+          <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-2">
+              Safety & Verification
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Hotel security access is pre-approved where required, and health
+              reports can be shared on request — ensuring peace of mind for all
+              parties involved.
+            </p>
+          </div>
+
+          {/* Privacy */}
+          <div className="bg-[#151515] p-8 rounded-2xl border border-white/5 md:col-span-2">
+            <h3 className="text-xl font-semibold text-white mb-2">
+              Complete Privacy
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Your conversations remain confidential with encrypted chats that
+              auto-delete within 24 hours. Payments are discreetly labeled as
+              “consultancy” to maintain full privacy.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+     
+
     <section className="bg-white dark:bg-black py-16 px-6">
       <div className="max-w-6xl mx-auto">
         {/* Heading */}
@@ -428,6 +587,49 @@ const hotelOutlets = [
             </div>
           ))}
         </div>
+      </div>
+    </section>
+    <section className="bg-black py-20">
+      <div className="max-w-7xl mx-auto px-6 text-center">
+
+        <h2 className="text-3xl md:text-4xl font-extrabold text-white mb-6">
+           Escort Service in Delhi One Click Away – Contact Us Now
+        </h2>
+
+        <p className="text-gray-300 leading-relaxed max-w-3xl mx-auto mb-8">
+         Stop hunting. One WhatsApp button brings the best escort service in Delhi to your door in 30 minutes—whether you crave busty boobs, CIM, anal, Russian accent or a party girl who dances till sunrise. Pay hourly, extend instantly, travel together, keep zero traces. Click below, type your fantasy and let the capital’s most trusted escort service in Delhi make tonight unforgettable.
+        </p>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-gray-400 text-left max-w-4xl mx-auto mb-10">
+          <ul className="space-y-3">
+            <li>✓ Secure online booking for Delhi escorts</li>
+            <li>✓ WhatsApp for quick inquiries</li>
+            <li>✓ Email for detailed arrangements</li>
+          </ul>
+
+          <ul className="space-y-3">
+            <li>✓ Phone support for immediate assistance</li>
+            <li>✓ Same-day escort service availability</li>
+            <li>✓ Best escort service in Delhi NCR</li>
+          </ul>
+        </div>
+
+        <div className="flex flex-col sm:flex-row justify-center gap-4">
+          <a
+            href="https://wa.me/your-number"
+            className="bg-amber-500 text-black font-bold px-8 py-3 rounded-lg hover:bg-amber-400 transition"
+          >
+            Contact on WhatsApp
+          </a>
+
+          <a
+            href="/contact"
+            className="border border-amber-500 text-amber-300 font-semibold px-8 py-3 rounded-lg hover:bg-amber-500 hover:text-black transition"
+          >
+            Call Us Now
+          </a>
+        </div>
+
       </div>
     </section>
     <section className="bg-white py-16 px-6">
