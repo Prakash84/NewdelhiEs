@@ -139,24 +139,24 @@ const categories = [
 ];
 const faqs = [
   {
-    q: 'Is this category suitable for first-time clients?',
-    a: 'Absolutely. Independent escorts communicate directly, so you can ask questions, set boundaries and move at your own pace without agency pressure.',
+    q: 'Are independent escorts in Delhi verified?',
+    a: 'Yes, every independent escort in Delhi on Delhi escorts is selfie-verified within 60 seconds and carries updated ID, health slip and hotel pass for your safety.',
   },
   {
-    q: 'Same-day booking possible?',
-    a: 'Yes. Most independents keep a few slots open each day; WhatsApp your preferred time and get confirmation within minutes.',
+    q: 'How fast can independent escorts in Delhi arrive?',
+    a: 'Delhi escorts guarantees 30-minute delivery across Delhi, Noida, Gurgaon via live GPS tracking; late arrival waives the first hour fee.',
   },
   {
-    q: 'Hotel visits allowed?',
-    a: 'Definitely. They meet at 3-5-star hotels, serviced apartments or your home—just share the location pin once confirmed.',
+    q: 'Do independent escorts in Delhi cost extra?',
+    a: ' No middle-man means you save 20-30%; pay only the independent escorts in Delhi directly—no hidden cab or hotel surcharge.',
   },
   {
-    q: 'Are profiles genuine?',
-    a: 'Every profile is selfie-verified and cross-checked with government ID; blurred face photos protect privacy while proving authenticity.',
+    q: 'Can I extend time with independent escorts in Delhi?',
+    a: 'Yes, scan the live QR and extend by 30-minute slices at 50% hourly rate—no agency approval needed for independent escorts in Delhi.',
   },
   {
-    q: 'How is payment handled?',
-    a: 'Transparent cash or UPI at meeting start—no hidden extras, no last-minute upsells.',
+    q: 'Are independent escorts in Delhi hotel-safe?',
+    a: 'Delhi escorts holds visitor passes at 45 five-star hotels; your independent escort in Delhi glides past security, no ID photocopy required.',
   },
   {
     q: 'Can I extend the time during the meeting?',

@@ -1,6 +1,7 @@
 "use client";
 import Link from 'next/link';
 import Image from "next/image";
+import { motion } from 'framer-motion';
 // components/ModernContentStyle2.jsx
 export default function Outpage() {
   const locations = [
@@ -104,6 +105,56 @@ const faqs = [
 { name: 'Lajpat Nagar ', img: '/Webpimages/pullmanAerocity.webp' },
 { name: 'Kalkaji', img: '/Webpimages/jwmarriott.webp' },
 ]
+const hotelOutlets = [
+  {
+    title: "JW Marriott Hotel Aerocity",
+    image: "/images/JW Marriott Hotel Aerocity.jpg",
+    description:
+      "Spa Delhi is a hotel where one can indulge in luxurious massage therapies and enjoy the wellness experience in high-end comfort.",
+  },
+  {
+    title: "Lemon Tree Premier Aerocity",
+    image: "/images/LemonTreePremierAerocity.jpg",
+    description:
+      "De-Stress and refresh with Spa Delhi expert therapists who provide personalized spa treatments in the luxurious environment of Lemon Tree Premier.",
+  },
+  {
+    title: "Novotel New Delhi Aerocity",
+    image: "/images/NovotelNewDelhiAerocity.jpeg",
+    description:
+      "The ultimate relaxation with Spa Delhi massage therapies, a combination of luxury oils and professional skills in the modern space of Novotel.",
+  },
+  {
+    title: "The Grand New Delhi",
+    image: "/images/TheGrandNewDelhi.jpg",
+    description:
+      "Have a splendid experience of the SpA Delhi massage services that are provided at the Grand New Delhi hotel where you can enjoy total relaxation and wellness in the luxurious surroundings of The Grand.",
+  },
+  {
+    title: "IBIS New Delhi Aerocity",
+    image: "/images/IBISNewDelhiAerocity.jpg",
+    description:
+      "Enjoy Spa Delhi. Have a special massage therapy in IBIS, where masterful care is combined with a relaxing environment to get holistic rejuvenation.",
+  },
+  {
+    title: "The Park Connaught Place",
+    image: "/images/TheParkConnaughtPlace.jpg",
+    description:
+      "Find a pleasant getaway with Spa Delhi luxury massages, which relaxes the body and uplift your senses.",
+  },
+  {
+    title: "The Suryaa New Delhi (NFC)",
+    image: "/images/TheSuryaaNewDelhi(NFC).jpg",
+    description:
+      "Experience Spa Delhi specializes in massage services at The Suryaa, where customers receive personalized well-being and ultimate relaxation in the massage salon.",
+  },
+  {
+    title: "The Ashok (Chanakyapuri)",
+    image: "/images/TheAshok(Chanakyapuri).webp",
+    description:
+      "Relax your body and mind with high-quality spa services at The Ashok, which combines luxurious experiences with a professional approach.",
+  },
+];
   return (
     <>
     <section
@@ -147,6 +198,141 @@ const faqs = [
         </div>
       </div>
     </section>
+    <section className="w-full py-16 bg-white">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+        
+        {/* Left: Text and Icon */}
+        <motion.div
+          initial={{ opacity: 0, y: 40 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
+          className="space-y-6"
+        >
+          {/* Icon */}
+          <div className="flex items-center space-x-4">
+            <div className="bg-black-100 p-3 rounded-full shadow-sm">
+              <svg
+                aria-hidden="true"
+                className="w-6 h-6 text-black-600"
+                viewBox="0 0 576 512"
+                fill="currentColor"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M568.25 192c-29.04.13-135.01 6.16-213.84 83-33.12 29.63-53.36 63.3-66.41 94.86-13.05-31.56-33.29-65.23-66.41-94.86-78.83-76.84-184.8-82.87-213.84-83-4.41-.02-7.79 3.4-7.75 7.82.23 27.92 7.14 126.14 88.77 199.3C172.79 480.94 256 480 288 480s115.19.95 199.23-80.88c81.64-73.17 88.54-171.38 88.77-199.3.04-4.42-3.34-7.84-7.75-7.82zM287.98 302.6c12.82-18.85 27.6-35.78 44.09-50.52 19.09-18.61 39.58-33.3 60.26-45.18-16.44-70.5-51.72-133.05-96.73-172.22-4.11-3.58-11.02-3.58-15.14 0-44.99 39.14-80.27 101.63-96.74 172.07 20.37 11.7 40.5 26.14 59.22 44.39a282.768 282.768 0 0 1 45.04 51.46z" />
+              </svg>
+            </div>
+            <p className="text-lg font-medium text-black-800">24+ Outlets</p>
+          </div>
+    
+          {/* Heading */}
+          <h2 className="text-3xl md:text-4xl font-bold text-black-900 font-serif">
+             Enjoy Top-Class Massage in Delhi at Hotel Spa in Delhi
+          </h2>
+    
+          {/* Description */}
+          <p className="text-gray-700 leading-relaxed text-base md:text-lg">
+            Spa Delhi guarantees complete relaxation and restorativeness to all the guests in the top Hotels of Delhi. Our professional therapists use the most sophisticated massage methods, essential oils, and individual therapies to help people relieve stress, enhance blood flow, and boost energy. Every session is designed to offer a total wellness experience, whether it's a full body massage, B2B therapy, or a couple session. <strong></strong>
+          </p>
+          <p className="text-gray-700 leading-relaxed text-base md:text-lg">
+            
+    Through luxury, hygiene, and competent nursing, Spa Delhi is able to convert any room within a hotel to a haven of peace and pleasures. Customers leave rejuvenated, renewed and completely engrossed in an unmatched spa experience and Spa Delhi is the recommended name when it comes to luxury hotel massage services in the city.
+    
+          </p>
+        </motion.div>
+    
+        {/* Right: Images */}
+        <motion.div
+          initial={{ opacity: 0, y: 40 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.2 }}
+          className="grid grid-cols-2 gap-4"
+        >
+          <div className="rounded-2xl overflow-hidden shadow-lg">
+            <img
+              src="/images/anaa - Linkfly.webp"
+              alt="Spa Room"
+              className="w-full h-full object-cover"
+            />
+          </div>
+          <div className="rounded-2xl overflow-hidden shadow-lg">
+            <img
+              src="/images/download (24).jpg"
+              alt="Massage Therapy"
+              className="w-full h-full object-cover"
+            />
+          </div>
+        </motion.div>
+      </div>
+    </section>
+    {/* our 5* hoterl outlets */}
+       <section className="w-full py-16 bg-gradient-to-b from-white to-black-50">
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    {/* Title */}
+    <motion.h2
+      className="text-4xl md:text-5xl font-bold text-center text-black-900 font-serif mb-6"
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.6 }}
+    >
+      Our 5-Star Hotel Outlets for Massage Spa in Delhi
+    </motion.h2>
+
+    {/* Description */}
+    <motion.p
+      className="text-center text-black-800 max-w-3xl mx-auto mb-12 text-base md:text-lg font-medium"
+      initial={{ opacity: 0 }}
+      whileInView={{ opacity: 1 }}
+      transition={{ duration: 0.6, delay: 0.2 }}
+    >
+      Spa Delhi offers the world standard of wellness to the highest 5-star hotels making sure that the customers experience a personalized massage in a luxurious and serene environment.
+    </motion.p>
+
+    {/* Cards */}
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+      {hotelOutlets.map((hotel, index) => (
+        <motion.div
+          key={index}
+          className="bg-white/80 backdrop-blur-lg shadow-xl rounded-2xl overflow-hidden flex flex-col justify-between transition-all duration-300 hover:scale-105 hover:shadow-2xl"
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4, delay: index * 0.1 }}
+        >
+          {/* Image */}
+          <div className="relative h-48 w-full">
+            <Image
+              src={hotel.image}
+              alt={hotel.title}
+              fill
+              className="object-cover"
+            />
+          </div>
+
+          {/* Content */}
+          <div className="p-5 flex flex-col flex-grow">
+            <h3 className="text-lg font-semibold text-black-800 font-serif mb-2">
+              {hotel.title}
+            </h3>
+            <p className="text-gray-600 text-sm flex-grow mb-4">
+              {hotel.description}
+            </p>
+
+            {/* Book Now Button */}
+            <a
+              href="https://api.whatsapp.com/send?phone=919217255113"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block mt-auto px-5 py-2 rounded-full bg-black-500 text-white text-sm font-semibold hover:bg-black-600 shadow-md hover:shadow-xl transition-all duration-300 text-center"
+            >
+              BOOK NOW
+            </a>
+          </div>
+        </motion.div>
+      ))}
+    </div>
+  </div>
+</section>
+
+      {/* End outlets */}
     <section className="py-20 bg-neutral-50">
       <div className="container mx-auto px-6 max-w-7xl">
         <h2 className="text-4xl md:text-5xl font-extrabold text-neutral-900 mb-4 text-center">
@@ -165,7 +351,7 @@ const faqs = [
               <div className="text-5xl mb-4">{loc.icon}</div>
               <h3 className="text-xl font-bold text-neutral-900 mb-2">{loc.name}</h3>
               <p className="text-sm text-neutral-600 mb-3">{loc.vibe}</p>
-              <p className="text-xs text-amber-600 font-semibold">{loc.convenience}</p>
+              <p className="text-xs text-black-600 font-semibold">{loc.convenience}</p>
             </div>
           ))}
         </div>
@@ -179,13 +365,13 @@ const faqs = [
             />
           </div>
           <div className="bg-neutral-900 text-white rounded-xl p-6">
-            <h4 className="font-bold text-amber-400 mb-2">Need a custom pin?</h4>
+            <h4 className="font-bold text-black-400 mb-2">Need a custom pin?</h4>
             <p className="text-sm text-neutral-300 mb-4">
               If your hotel or residence isn’t listed, drop the location pin on WhatsApp—we cover 40+ additional micro-markets across NCR.
             </p>
             <a
               href="https://wa.me/91XXXXXXXXXX"
-              className="inline-flex items-center text-amber-400 font-semibold text-sm"
+              className="inline-flex items-center text-black-400 font-semibold text-sm"
             >
               Share Location
               <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -312,7 +498,7 @@ const faqs = [
             <details key={idx} className="group bg-white rounded-xl shadow-sm border border-neutral-100 open:shadow-lg transition">
               <summary className="flex justify-between items-center cursor-pointer p-5 list-none">
                 <h3 className="font-semibold text-neutral-900">{item.q}</h3>
-                <svg className="w-5 h-5 text-amber-500 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-5 h-5 text-black-500 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                 </svg>
               </summary>
