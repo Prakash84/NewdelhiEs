@@ -630,6 +630,106 @@ Book high-profile Delhi escorts first visit ₹1999 today
           </div>
         </div>
       </section>
+      <section className="bg-black text-gray-300 py-20">
+      <div className="container mx-auto px-6 max-w-7xl">
+        
+        {/* Section Header */}
+        <div className="text-center mb-16">
+          <h2 className="text-3xl md:text-4xl font-semibold text-white mb-4">
+            Comprehensive Delhi Escort Services
+          </h2>
+          <p className="max-w-3xl mx-auto text-gray-400">
+            Tailored to your desires, our premium escort service in Delhi offers
+            refined companionship experiences across NCR with discretion and class.
+          </p>
+        </div>
+
+        {/* Services Grid */}
+        <div className="grid md:grid-cols-2 gap-10">
+
+          {/* Service Item */}
+          <div className="bg-[#141414] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-3">
+              Elite Dinner Dates with Delhi Escorts
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Transform ordinary evenings into extraordinary experiences with
+              sophisticated Delhi escorts who excel in social settings. Whether
+              dining with Aerocity escorts at luxury hotels or Gurgaon escorts at
+              corporate venues, our companions enhance every moment with charm
+              and engaging conversation.
+            </p>
+          </div>
+
+          <div className="bg-[#141414] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-3">
+              Corporate Events with High Profile Escorts
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Make a lasting impression at business functions with high profile
+              escorts in Delhi who understand professional etiquette. Our
+              independent escorts seamlessly fit into corporate environments
+              while maintaining elegance and discretion.
+            </p>
+          </div>
+
+          <div className="bg-[#141414] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-3">
+              Travel Companionship Across NCR
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Explore Delhi and nearby destinations with experienced escorts who
+              act as both companions and local guides. From Noida escorts familiar
+              with city attractions to Aerocity escorts ideal for airport hotels,
+              every journey becomes more enjoyable.
+            </p>
+          </div>
+
+          <div className="bg-[#141414] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-3">
+              Private Encounters with Independent Escorts
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Enjoy private moments with verified independent escorts in Delhi
+              who value comfort, consent, and discretion. Each encounter is
+              designed to align with personal preferences and boundaries.
+            </p>
+          </div>
+
+          <div className="bg-[#141414] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-3">
+              Cultural Experiences with Elite Companions
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              Discover Delhi’s cultural charm with escorts who appreciate art,
+              music, nightlife, and shopping. From Cyber Hub evenings with
+              Gurgaon escorts to Noida shopping experiences, companionship adds
+              depth to every outing.
+            </p>
+          </div>
+
+          <div className="bg-[#141414] p-8 rounded-2xl border border-white/5">
+            <h3 className="text-xl font-semibold text-white mb-3">
+              Extended Arrangements with Premium Escorts
+            </h3>
+            <p className="text-gray-400 leading-relaxed">
+              For longer engagements, our premium escorts in Delhi offer extended
+              companionship that allows genuine connections to develop naturally,
+              creating meaningful experiences across the NCR region.
+            </p>
+          </div>
+
+        </div>
+
+        {/* Bottom Note */}
+        {/* <p className="text-center text-gray-500 mt-16 max-w-4xl mx-auto">
+          Each escort service in Delhi is fully customizable, ensuring every
+          experience aligns perfectly with your expectations, preferences,
+          and comfort.
+        </p> */}
+
+      </div>
+    </section>
        {/* End Our Therapy Experts */}
        <section className="bg-black py-24">
   <div className="max-w-8xl mx-auto px-6">
