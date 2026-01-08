@@ -721,21 +721,14 @@ const [openIndex, setOpenIndex] = useState<number | null>(null);
     <section className="bg-white dark:bg-black py-16 px-6">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 dark:text-white mb-6">
-          What Are Independent Escorts in Delhi?
+          Why Book Independent Escorts Service in Delhi?
         </h2>
 
         <div className="prose prose-lg prose-slate dark:prose-invert max-w-none">
           <p>
-            Independent escorts are self-employed companions who manage their own schedules, profiles, and client interactions—no agency middle-man. This direct line creates a more personal, authentic, and flexible experience compared to traditional agency models. You communicate straight with the companion, discuss preferences openly, and tailor every detail to your mood and calendar.
+            Zero commission means lower prices and higher customization. Want a Russian escort in Delhi who speaks fluent English? An air hostess escort in Delhi who brings crew discounts on flights? Or a celebrity escort in Delhi who signs NDAs on request? Independent escorts tailor everything—duration, music, outfit, even the brand of champagne. You can extend at midnight without waiting for “agency approval”; simply re-load the UPI QR and continue. Most independent female escorts in Delhi also maintain Instagram-verified accounts, so you preview their lifestyle before meeting. Direct chat builds trust—she remembers your coffee preference, favourite perfume and safe-word from the last encounter. That one-to-one chemistry is why seasoned clients prefer independent escorts service in Delhi over traditional agencies.
           </p>
 
-          <p>
-            Ideal for discerning gentlemen, solo travellers, busy executives, and curious first-timers who value discretion, intelligent conversation, and genuine chemistry. Whether you need a plus-one for a luxury dinner at ITC Maurya, a fun guide to explore Delhi’s nightlife, or a quiet evening cuddled with wine and Netflix, independent escorts adapt effortlessly—dressing to the nines or keeping it cozy in joggers.
-          </p>
-
-          <p>
-            Expect a vibe that’s equal parts friendly girlfriend and polished professional: punctual, well-spoken, and dressed impeccably for the occasion. Rates are transparent, services are clearly discussed, and boundaries are respected, ensuring a stress-free, upscale encounter that feels organic, not transactional. In short, you get premium companionship minus the red tape—just pure, uncomplicated connection.
-          </p>
         </div>
       </div>
     </section>
