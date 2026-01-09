@@ -170,16 +170,12 @@ const hotelOutlets = [
     
       <div className="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
         <h1 className="text-4xl md:text-5xl font-black tracking-tight mb-6">
-          Delhi Escorts – Premium & Trusted Escort Services in Delhi
+          Premium Gurgaon Escorts Service for VIP Clients Tonight
         </h1>
     
         <p className="text-lg md:text-xl leading-relaxed max-w-3xl mx-auto">
-          Delhi ek vibrant aur fast-moving city hai jahan log luxury, comfort aur
-          companionship ko value karte hain. Hum Delhi escort service ke through
-          aapko ek safe, private aur high-quality experience provide karte hain.
-          Chahe aap business trip par ho, solo traveler ho ya simply kisi special
-          companion ki talash me ho, humari escort services aapki expectations ko
-          samajh kar design ki gayi hain. Discretion aur privacy humari priority hai.
+          Experience the finest Gurgaon escorts through our premium agency, delivering sophisticated companions directly to your hotel within minutes. Our exclusive Gurgaon escorts collection features verified models who understand luxury hospitality, ensuring your complete satisfaction. Book tonight and discover why discerning clients choose our professional Gurgaon escorts service for memorable encounters.
+
         </p>
     
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
@@ -226,17 +222,17 @@ const hotelOutlets = [
     
           {/* Heading */}
           <h2 className="text-3xl md:text-4xl font-bold text-black-900 font-serif">
-             Enjoy Top-Class Massage in Delhi at Hotel Spa in Delhi
+             Best Noida escorts and escort service in Noida for you tonight
           </h2>
     
           {/* Description */}
           <p className="text-gray-700 leading-relaxed text-base md:text-lg">
-            Spa Delhi guarantees complete relaxation and restorativeness to all the guests in the top Hotels of Delhi. Our professional therapists use the most sophisticated massage methods, essential oils, and individual therapies to help people relieve stress, enhance blood flow, and boost energy. Every session is designed to offer a total wellness experience, whether it's a full body massage, B2B therapy, or a couple session. <strong></strong>
+            Hello friends, if you are staying in Noida and feeling alone, our Noida escorts are here to make your night happy. We give safe and fast escort service in Noida hotels and flats. Just call or WhatsApp, share your hotel name or sector, and we will send real photos of girls near you. All our Noida escorts are college girls or working girls living nearby, so they reach you in 20 to 30 minutes only. <strong></strong>
           </p>
           <p className="text-gray-700 leading-relaxed text-base md:text-lg">
-            
-    Through luxury, hygiene, and competent nursing, Spa Delhi is able to convert any room within a hotel to a haven of peace and pleasures. Customers leave rejuvenated, renewed and completely engrossed in an unmatched spa experience and Spa Delhi is the recommended name when it comes to luxury hotel massage services in the city.
-    
+          Our escort service in Noida is open 24×7, even after midnight. No advance money, pay cash only after the girl reaches your room. We cover every sector like 18, 62, 93, 50 and Greater Noida too. Budget starts from ₹7 k for one short, full night ₹12 k.
+Privacy is full, no ID asked, no paper work. Driver waits in basement, girl comes alone to your door. You can also take our Noida escorts for dinner or party; they speak good Hindi and English.
+Call now, choose your favourite girl, and enjoy fresh company tonight. Repeat customers get extra discount. We are one click away for best escort service in Noida.
           </p>
         </motion.div>
     
@@ -342,9 +338,9 @@ const hotelOutlets = [
             <span className="text-4xl">🌟</span>
           </span>
           <h2 className="text-4xl font-extrabold text-zinc-900">
-            Why Our Moments Feel Different
+            Elite Gurgaon escorts for five-star hotel service tonight
           </h2>
-          <p className="text-zinc-600 mt-2">Luxury, laughter and zero logistics.</p>
+          <p className="text-zinc-600 mt-2">Fast escort service in Gurgaon, cash only</p>
         </div>
 
         {/* 2-column layout */}
@@ -365,13 +361,13 @@ const hotelOutlets = [
           {/* Right: content + feature chips */}
           <div className="md:col-span-3">
             <p className="text-zinc-700 leading-relaxed mb-5">
-              Step into a world where every glance, giggle and gentle touch is curated for your mood. Our companions are more than beautiful—they’re cultured conversationalists who can discuss Bordeaux vintages one minute and dance to lo-fi beats the next. Forget awkward small talk; we match you with someone who actually gets your jokes and remembers your favourite whisky.
+            Our Gurgaon escorts bring real fun to your hotel room within thirty minutes. We cover every big hotel on MG Road, Golf Course Road, CyberHub and Sector 29. Just message your room number, we reply with live photos and exact time. No advance, pay cash after meeting. Every girl carries hotel security pass, so you skip lobby drama. Rates are simple: ₹8 k for two hours, ₹15 k till morning.
             </p>
             <p className="text-zinc-700 leading-relaxed mb-5">
-              From the moment you confirm, our concierge quietly handles restaurant reservations, room ambience and even the Spotify playlist if you ask. No paperwork, no waiting in lobbies, no side-eye from hotel staff—just seamless entry into an evening that feels like a secret society built for two. And because every rupee is declared beforehand, the only surprise you’ll get is how quickly she learns the way you like your coffee the next morning.
+             Our escort service in Gurgaon is open 24×7, even at 3 a.m. Drivers wait in basement, girl walks straight to your lift. All photos are real and recent; if not, you can send her back without pay. We also offer duo and dinner date deals for VIP guests. Save our number now and enjoy safe, fresh company whenever you visit Gurgaon.
             </p>
             <p className="text-zinc-700 leading-relaxed mb-6">
-              We call it the “invisible service” — you feel every luxury, yet never see the gears turning. That’s why 82 % of our guests come back. One taste of effortless chemistry and you’ll understand why ordinary feels too small a word.
+              We know business travellers hate waiting, so we keep girls ready near DLF Phases 1-5. Whether you stay at Leela, Trident, Hyatt or Radisson, our Gurgaon escorts reach before your ice bucket melts. Girls speak Hindi and English, dress in western or Indian as you like. You can take them for a short drive, pub party or quiet night in. We never save your number or share with anyone; once meeting is over, chat history is deleted. Repeat clients get special discount and priority booking. One call, zero tension, hundred percent enjoyment—that is our promise.
             </p>
 
             {/* Icon chips */}
@@ -464,11 +460,10 @@ const hotelOutlets = [
         {/* Header */}
         <div className="text-center mb-14">
           <h2 className="text-3xl md:text-4xl font-semibold text-white mb-4">
-            Why Book Independent Escorts Service in Delhi via DelhiEscorts.in?
+            Why pick our Gurgaon Noida escort service today
           </h2>
           <p className="max-w-3xl mx-auto text-gray-400">
-            A smarter, safer, and more transparent way to connect with verified
-            independent escorts across Delhi NCR.
+            Real girls, fast delivery, no advance cash—best escort service in Gurgaon and Noida
           </p>
         </div>
 
@@ -478,23 +473,20 @@ const hotelOutlets = [
           {/* Price */}
           <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
             <h3 className="text-xl font-semibold text-white mb-2">
-              Price Advantage
+              Fast Gurgaon
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              Save up to <span className="text-white">20–30%</span> by booking
-              directly with independent escorts. No agencies, no commissions,
-              and no hidden charges — you pay only for what you choose.
+              Our Gurgaon escorts reach your hotel in 30 minutes flat. We keep girls ready near DLF CyberHub, so distance is never issue. Photos you see on WhatsApp are same girl who knocks your door. If looks differ, send her back—no pay. All Gurgaon escorts carry hotel security pass, so you skip lobby tension. Rates are fixed, no hidden taxi charge or tip demand. Night or day, one call and fun begins.<span className="text-white"></span>
             </p>
           </div>
 
           {/* Speed */}
           <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
             <h3 className="text-xl font-semibold text-white mb-2">
-              Faster Booking
+              Local Noida
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              Direct WhatsApp communication ensures quick responses and smooth
-              coordination, with availability across Delhi NCR in as little as
+              We choose Noida escorts who live in Sector 18, 62, 93—close to your hotel. Because girls stay nearby, petrol money is zero and time is less. Every Noida escort is student or working girl, speaks good Hindi and English. You can talk to her on phone before booking. She brings ID for safety, you check and relax. Repeat clients get discount and priority booking.
               <span className="text-white"> 30 minutes</span>.
             </p>
           </div>
@@ -502,36 +494,30 @@ const hotelOutlets = [
           {/* Choice */}
           <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
             <h3 className="text-xl font-semibold text-white mb-2">
-              Wide Choice
+              24×7 Gurgaon
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              Choose from <span className="text-white">200+ verified freelancers</span>,
-              including college companions, mature profiles, public-figure
-              lookalikes, and international escorts available in Delhi.
+              Our escort service in Gurgaon is open 24×7, even Sunday 3 a.m. Booking is one WhatsApp message—no long form, no ID upload. We cover all star hotels: Leela, Trident, Hyatt, Radisson, Taj. Driver waits in basement, girl walks straight to lift. Payment only after meeting, cash or UPI as you like. Chat auto-deleted after meet, keeping your phone clean.<span className="text-white"></span>
             </p>
           </div>
 
           {/* Safety */}
           <div className="bg-[#151515] p-8 rounded-2xl border border-white/5">
             <h3 className="text-xl font-semibold text-white mb-2">
-              Safety & Verification
+              Quick Noida
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              Hotel security access is pre-approved where required, and health
-              reports can be shared on request — ensuring peace of mind for all
-              parties involved.
+              Best part of our escort service in Noida is speed. From your first text to girl at door, average time is 25 minutes. We serve Sector 18, 50, 62, 93 and Greater Noida. No advance money, no bargaining once girl arrives. If you need extension, ask her directly—fair hourly rate. We also give duo service if you want double fun.
             </p>
           </div>
 
           {/* Privacy */}
           <div className="bg-[#151515] p-8 rounded-2xl border border-white/5 md:col-span-2">
             <h3 className="text-xl font-semibold text-white mb-2">
-              Complete Privacy
+              Honest Service
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              Your conversations remain confidential with encrypted chats that
-              auto-delete within 24 hours. Payments are discreetly labeled as
-              “consultancy” to maintain full privacy.
+             People trust us because we keep promise: real Gurgaon escorts, real Noida escorts, no cheat. Our escort service in Gurgaon and escort service in Noida both follow same rule—cash after fun, full privacy. Girls are polite, healthy and regularly checked. Drivers are trained, never disturb your talk. Save one number, enjoy in two cities. Simple, safe, sweet—that is why clients choose us again.
             </p>
           </div>
 
@@ -635,31 +621,25 @@ const hotelOutlets = [
     <section className="bg-white py-16 px-6">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-8 text-center">
-          Premium Independent Escorts in Delhi – Authentic, Discreet, Unforgettable
+          Top Gurgaon escorts & Noida escorts ready tonight, cash only.
         </h1>
 
         <div className="prose prose-lg prose-gray mx-auto leading-relaxed text-gray-700">
           <p>
-            Welcome to DelhiEscorts.in, the capital’s most selective platform for luxury companionship.  
-            We hand-pick only independent, university-educated women who combine stunning looks with sharp intellect and warm, open hearts.  
-            Every profile is selfie-verified and re-approved monthly, guaranteeing that the girl who arrives at your suite is the same flawless beauty you admired online.  
-            Whether you are a busy executive landing at IGIA late tonight, a traveller seeking a plus-one for a cocktail rooftop in Aerocity, or a local gentleman craving genuine chemistry after endless video calls, we create moments that feel effortless, exciting and completely confidential.
+           If you are in Delhi NCR and want cute girls for fun, call us. We give best Gurgaon escorts and Noida escorts at low price. No advance, full privacy, door delivery in 30 min. Our girls are college students, models and MNC workers who stay nearby. They speak Hindi, English and little Punjabi too. You can choose any girl from WhatsApp photos. If you do not like her, we change once free.
           </p>
 
           <p>
-            Browse high-resolution portfolios, read honest client reviews and chat directly through end-to-end encrypted messages—no brokers, no upsells, no awkward surprises.  
-            Prefer a quiet wine evening at the Lodhi Hotel? A spontaneous drive to Neemrana Fort for sunset selfies? Or perhaps an indulgent four-hand massage followed by strawberries and laughter behind closed doors?  
-            Our companions tailor every encounter around your schedule, fantasies and comfort level, setting clear boundaries and safe-words before the first kiss.  
-            Discretion is woven into every step: your credit-card statement shows a neutral brand name, taxis drop off at lobby side entrances, and selfies taken together are automatically deleted when the date ends.
+           Our escort service in Gurgaon covers all big hotels like Leela, Trident, Hyatt, Radisson, Crowne Plaza. Just send hotel name and room number, we send girl with security pass. She will come straight to your lift, no questions at reception. Rate is ₹8 k for two hours, ₹15 k for full night. You can also take girl for short drive or CyberHub dinner. She will wear jeans or dress as you say. After meeting, pay cash and say bye. We never call you back or save your number.
           </p>
 
           <p>
-            Beyond beauty, we value emotional intelligence. Each escort is trained in active listening, etiquette and after-care, ensuring you feel seen, respected and completely relaxed.  
-            Many speak fluent English, Hindi and French, hold degrees in fashion or psychology, and travel internationally on short notice—ideal companions for destination weddings in Udaipur or weekend escapes to Goa.  
-            Rates are transparent, hourly or overnight, with complimentary refreshments and lingerie styling included.  
-            Repeat clients enjoy priority booking, loyalty discounts and access to our private Telegram channel where new tours are announced first.  
-            Ready to meet someone who matches your energy and curiosity? Scroll down, click the WhatsApp button, and let us arrange an encounter that leaves you smiling for days.  
-            Delhi after dark has never felt this welcoming, this safe, this deliciously addictive.
+          For Noida, our escort service in Noida works same way. We cover Sector 18, 62, 93, 50 and Greater Noida. Popular hotels we visit are Radisson Noida, Mosaic, Jaypee, Crowne Plaza. Girl reaches in 25 minutes. Budget starts from ₹7 k short, ₹12 k full night. If you live in flat, we need society gate pass; if hotel, no paper work. All our Noida escorts carry ID and look same as photos. You can talk to girl on phone before booking. Night booking open till 4 a.m.
+          </p>
+          <p>
+            We are open every day, even Sunday and holiday. Booking is simple: WhatsApp “I need girl in Gurgaon” or “I need girl in Noida”, we reply with 4-5 real photos. You pick one, we give time. If flight is late, no worry; we track and change time free. For VIP clients we give two girls package at 20 % discount.
+Safety is big for us. Driver waits in basement, girl goes alone. No money talk in lobby. We use polite words in chat, so your phone stays clean. After fun, we delete chat from both sides. Many customers come every week, they trust us for fresh girls and fair deal.
+So next time you feel alone in Gurgaon or Noida, save our number. One text, hot girl at your door. Life is short, enjoy with best Gurgaon escorts and Noida escorts tonight.
           </p>
         </div>
       </div>

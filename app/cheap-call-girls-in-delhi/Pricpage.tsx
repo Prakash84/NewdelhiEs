@@ -216,6 +216,50 @@ export default function Pricpage() {
       }
     ];
         {/* end pricing */}
+const prices = [
+    {
+      category: "Cheap Call Girls in Delhi – Basic",
+      oneHour: "₹4,500",
+      twoHours: "₹8,000",
+      overnight: "₹15,000",
+    },
+    {
+      category: "Affordable Call Girls in Delhi – GFE",
+      oneHour: "₹6,000",
+      twoHours: "₹10,000",
+      overnight: "₹20,000",
+    },
+    {
+      category: "Cheap Call Girls in Gurgaon – Same Rates",
+      oneHour: "₹6,000",
+      twoHours: "₹10,000",
+      overnight: "₹20,000",
+    },
+    {
+      category: "Cheap Call Girls in Noida – Same Rates",
+      oneHour: "₹6,000",
+      twoHours: "₹10,000",
+      overnight: "₹20,000",
+    },
+    {
+      category: "Russian Cheap Call Girls in Delhi",
+      oneHour: "₹8,000",
+      twoHours: "₹14,000",
+      overnight: "₹25,000",
+    },
+    {
+      category: "Airhostess Affordable Escorts in Delhi",
+      oneHour: "₹9,000",
+      twoHours: "₹15,000",
+      overnight: "₹28,000",
+    },
+    {
+      category: "High-Profile Affordable Escorts in Delhi",
+      oneHour: "₹15,000",
+      twoHours: "₹25,000",
+      overnight: "₹45,000",
+    },
+  ];
 
 
   return (
@@ -395,6 +439,46 @@ export default function Pricpage() {
           </li>
         </ul>
 
+      </div>
+    </section>
+
+    <section className="py-16 bg-black text-white">
+      <div className="max-w-6xl mx-auto px-4">
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-8 text-pink-500">
+          Escorts Service Price in Delhi NCR
+        </h2>
+
+        <div className="overflow-x-auto">
+          <table className="w-full border border-pink-500">
+            <thead>
+              <tr className="bg-pink-600 text-white">
+                <th className="p-4 text-left">Category</th>
+                <th className="p-4">1 Hour</th>
+                <th className="p-4">2 Hours</th>
+                <th className="p-4">Overnight (8h)</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              {prices.map((item, index) => (
+                <tr
+                  key={index}
+                  className="border-t border-pink-500 hover:bg-pink-900/20 transition"
+                >
+                  <td className="p-4 font-medium">{item.category}</td>
+                  <td className="p-4 text-center">{item.oneHour}</td>
+                  <td className="p-4 text-center">{item.twoHours}</td>
+                  <td className="p-4 text-center">{item.overnight}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        {/* <p className="text-sm text-gray-400 mt-6 text-center max-w-3xl mx-auto">
+          * All prices include discreet cab, condoms, and basic role-play.
+          Extensions are charged at <span className="text-pink-400 font-semibold">50% hourly rate</span>.
+        </p> */}
       </div>
     </section>
     {/* pricing */}
