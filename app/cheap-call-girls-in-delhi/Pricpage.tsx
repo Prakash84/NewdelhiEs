@@ -109,24 +109,40 @@ export default function Pricpage() {
   ];
   const faqs = [
     {
-      q: "Are prices negotiable?",
-      a: "We offer the best possible first quote. Small adjustments possible on longer bookings (4 hrs+) or repeat clients—ask politely and we’ll try to match your budget.",
+      q: "What is the exact escorts service price in Delhi today?",
+      a: "Our escorts service price in Delhi starts at ₹8 k for two-hour outcall, covering taxi, hotel entry and companion time with no hidden extras.",
     },
     {
-      q: "Is advance payment required?",
-      a: "Zero advance. You pay only when the companion arrives and you are satisfied. No wallet links, no QR codes beforehand—ever.",
+      q: "How cheap call girls in Delhi maintain five-star hotel privacy?",
+      a: "Cheap call girls in Delhi use VIP hotel side entrances, lobby coordination and digital key sharing to protect your identity while entering five-star properties smoothly.",
     },
     {
-      q: "Does price vary by location?",
-      a: "Yes. Central & south Delhi incur little or no travel fee; Noida & Gurgaon add ₹ 1-2 k depending on distance. Exact amount quoted before you confirm.",
+      q: "Does the call girl price in Delhi include room charges or taxi fare?",
+      a: "The published call girl price in Delhi is all-inclusive, so room rent, toll and taxi are already covered, ensuring you pay only the quoted flat amount.",
     },
     {
-      q: "Are there any hidden charges?",
-      a: "None. Hotel cost (if outcall) and travel (if applicable) are shown upfront. No surprise ‘service tax’, ‘tip’, or ‘agent fee’ later.",
+      q: "Can I book affordable call girls in Delhi for just one short hour?",
+      a: "Yes, affordable call girls in Delhi offer flexible one-hour packages, perfect for quick lunch breaks or brief airport layovers without compromising quality or safety.",
     },
     {
-      q: "How do I confirm final pricing?",
-      a: "Send your area, preferred time & duration on WhatsApp. We reply with companion options and locked total price. Reply ‘Yes’ to confirm—done.",
+      q: "Are affordable escorts in Delhi verified with real selfies before arrival?",
+      a: "Every profile listed under affordable escorts in Delhi is selfie-verified monthly, so the girl who reaches your suite matches the photos you selected online.",
+    },
+    {
+      q:"Do cheap call girls in Gurgaon charge the same low rate as Delhi?",
+      a:"Absolutely, cheap call girls in Gurgaon follow the same transparent rate card as Delhi, so you enjoy consistent pricing whether in MG Road or CyberHub.",
+    },
+    {
+      q:"Is advance payment required when hiring cheap call girls in Noida?",
+      a:"No, cheap call girls in Noida operate on cash-on-meet terms, eliminating advance scams and letting you inspect compatibility before handing over any money.",
+    },
+    {
+      q:"What factors can slightly change the escorts service price in Delhi tonight?",
+      a:"Only special requests like costume role-play, duo companions or outstation drives alter the base escorts service price in Delhi, and even then, changes are declared upfront.",
+    },
+    {
+      q:"How early should I confirm the call girl price in Delhi during peak season?",
+      a:"To lock the listed call girl price in Delhi on New Year or Diwali, reserve at least 24 hours ahead, ensuring availability and protecting against last-minute surge demand.",
     },
   ];
   {/* pricing */}
@@ -216,14 +232,14 @@ export default function Pricpage() {
   {/* Dark overlay */}
   <div className="absolute inset-0 bg-black/70"></div>
 
-  <div className="relative container mx-auto px-6 py-20 text-center max-w-3xl">
+  <div className="relative container mx-auto px-6 py-20 text-center max-w-4xl">
 
-    <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-4">
-      Pricing for Escort Services in Delhi
+    <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight mb-4">
+      Cheap call girls in Delhi – Premium Service, Honest Prices
     </h1>
 
     <p className="text-lg md:text-xl text-zinc-300 mb-6">
-      Transparent pricing, no hidden charges, discreet service
+      Affordable cheap call girls in Delhi delivering five-star quality every single time.
     </p>
 
     <div className="inline-flex items-center gap-2 bg-zinc-800/80 text-green-400 px-4 py-2 rounded-full text-sm font-medium mb-8">
@@ -259,9 +275,9 @@ export default function Pricpage() {
             <span className="text-4xl">🌟</span>
           </span>
           <h2 className="text-4xl font-extrabold text-zinc-900">
-            Why Our Moments Feel Different
+            Escorts service price in Delhi – Full Rate Card for Cheap Call Girls
           </h2>
-          <p className="text-zinc-600 mt-2">Luxury, laughter and zero logistics.</p>
+          <p className="text-zinc-600 mt-2">Check the full Escorts service price in Delhi before you book</p>
         </div>
 
         {/* 2-column layout */}
@@ -282,14 +298,9 @@ export default function Pricpage() {
           {/* Right: content + feature chips */}
           <div className="md:col-span-3">
             <p className="text-zinc-700 leading-relaxed mb-5">
-              Step into a world where every glance, giggle and gentle touch is curated for your mood. Our companions are more than beautiful—they’re cultured conversationalists who can discuss Bordeaux vintages one minute and dance to lo-fi beats the next. Forget awkward small talk; we match you with someone who actually gets your jokes and remembers your favourite whisky.
+             When you type “call girl price in Delhi” into Google at 2 a.m., the last thing you want is a shady quote that doubles at checkout. That’s why we publish one honest menu for every five-star hotel in the capital. Our cheap call girls in Delhi start at just ₹8 k for a two-hour outcall, and that figure already covers discreet lobby entry, fresh linen, and her return cab—no GST, no surprise “late-night” levy, no awkward envelope renegotiation. Scroll the tables below and you’ll see the same Escorts service price in Delhi whether you’re staying at The Lalit CP, Pullman Aerocity, or a quiet service apartment in Noida. We can keep the numbers low because we skip paid classified ads and pass the savings straight to you, while still sending polished, English-speaking companions who arrive in heels, not sneakers. So if you’re hunting for a clear call girl price in Delhi that won’t creep upward after the door shuts, bookmark this page—what you see is the only cash you’ll ever need to handle.
             </p>
-            <p className="text-zinc-700 leading-relaxed mb-5">
-              From the moment you confirm, our concierge quietly handles restaurant reservations, room ambience and even the Spotify playlist if you ask. No paperwork, no waiting in lobbies, no side-eye from hotel staff—just seamless entry into an evening that feels like a secret society built for two. And because every rupee is declared beforehand, the only surprise you’ll get is how quickly she learns the way you like your coffee the next morning.
-            </p>
-            <p className="text-zinc-700 leading-relaxed mb-6">
-              We call it the “invisible service” — you feel every luxury, yet never see the gears turning. That’s why 82 % of our guests come back. One taste of effortless chemistry and you’ll understand why ordinary feels too small a word.
-            </p>
+            <p className="text-zinc-700 leading-relaxed mb-5">Our transparent pricing model makes us the go-to destination for Affordable Call Girls in Delhi without sacrificing elegance or privacy. By eliminating franchise fees and paid directory listings, we deliver Affordable Escorts in Delhi at up to 30 % below market rates while still providing five-star hotel access, discreet billing, and freshly-groomed companions who speak fluent English. Whether you book a one-hour social date or an overnight escape, the quoted figure is all-inclusive—no hidden taxi charges, no last-minute surcharges—so you enjoy premium company at genuinely Affordable Call Girls in Delhi prices every single time.</p>
 
             {/* Icon chips */}
             <div className="flex flex-wrap gap-3 mb-6">
@@ -332,10 +343,10 @@ export default function Pricpage() {
       <div className="container mx-auto px-6 max-w-4xl">
 
         <h2 className="text-3xl font-bold text-center text-zinc-900 mb-4">
-          Transparent Pricing — No Surprises
+          Transparent Pricing — Cheap Call Girls in Delhi with No Hidden Costs
         </h2>
         <p className="text-center text-zinc-600 mb-10">
-          Every quote is shared upfront; you approve before you pay.
+          Every escorts service price in Delhi is shared upfront; you approve the exact call girl price in Delhi before you pay.
         </p>
 
         <div className="grid md:grid-cols-3 gap-6 text-zinc-800">
@@ -345,7 +356,7 @@ export default function Pricpage() {
             <div className="text-pink-600 text-2xl mb-3">⏱️</div>
             <h3 className="font-semibold mb-2">Duration</h3>
             <p className="text-sm text-zinc-600">
-              1 Hr, 2 Hr, Overnight or Weekend — choose only what you need.
+              1 Hr, 2 Hr, Overnight or Weekend — choose only what you need; affordable call girls in Delhi for every slot.
             </p>
           </div>
 
@@ -363,7 +374,7 @@ export default function Pricpage() {
             <div className="text-pink-600 text-2xl mb-3">📍</div>
             <h3 className="font-semibold mb-2">Location</h3>
             <p className="text-sm text-zinc-600">
-              Incall, outcall or 5-star — travel & room cost shown separately.
+              Incall, outcall or 5-star — travel & room cost itemised; same low cheap call girls in Gurgaon and cheap call girls in Noida rates, no hidden taxi fee.
             </p>
           </div>
         </div>
@@ -376,11 +387,11 @@ export default function Pricpage() {
           </li>
           <li className="flex items-start gap-3">
             <span className="text-green-500 mt-1">✓</span>
-            <span>Clear communication on phone/WhatsApp before any booking is locked.</span>
+            <span>Clear WhatsApp chat confirms the final cheap call girls in Delhi figure before locking the meet.</span>
           </li>
           <li className="flex items-start gap-3">
             <span className="text-green-500 mt-1">✓</span>
-            <span>Payment only when you meet the companion — no advance scams.</span>
+            <span>Pay only when you meet the companion — no advance, ever.</span>
           </li>
         </ul>
 
@@ -589,22 +600,13 @@ export default function Pricpage() {
         {/* Right: Content */}
         <div>
           <h2 className="text-4xl font-extrabold text-zinc-900 mb-4">
-            Experience Delhi Like Never Before
+            Enjoy Delhi the Fun Way – Cheap Call Girls in Delhi
           </h2>
           <p className="text-zinc-700 leading-relaxed mb-6">
-            Whether you are in town for business or leisure, our premium
-            companions turn ordinary moments into unforgettable memories. Each
-            profile is hand-picked, fully verified and trained to blend into any
-            social setting—be it a five-star gala, a quiet dinner, or a private
-            evening behind closed doors. You set the pace; we deliver the
-            passion, discretion and warmth that make every minute count.
+            Come for work or fun, our affordable call girls in Delhi make every minute happy. Each girl is picked with care, checked and ready to sit with you at a big hotel party, quiet dinner or inside your room. You choose what to do; we give good company, full secrecy and warm smiles.
           </p>
           <p className="text-zinc-700 leading-relaxed mb-6">
-            From the vibrant clubs of Connaught Place to the luxury suites of
-            Aerocity, your companion arrives impeccably dressed, conversation-ready
-            and eager to explore the city—or simply explore you. Transparent
-            pricing, zero advance, and 24/7 live support mean you can focus on
-            pleasure while we handle the details.
+           From CP bars to Aerocity five-star hotels, your affordable escorts in Delhi reach you on time, dressed neat and ready to walk the city or stay in bed. We tell the escorts service price in Delhi on WhatsApp first, so the call girl price in Delhi you say yes to is the only money you give. Same clear cost for cheap call girls in Gurgaon and cheap call girls in Noida. No advance, no tension—just book, meet, pay and enjoy
           </p>
 
           {/* Icon perks */}
@@ -815,32 +817,22 @@ export default function Pricpage() {
     <section className="bg-white py-16 px-6">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-8 text-center">
-          Premium Independent Escorts in Delhi – Authentic, Discreet, Unforgettable
+          Premium Independent Cheap Call Girls in Delhi – Real, Safe, Fun
         </h1>
 
         <div className="prose prose-lg prose-gray mx-auto leading-relaxed text-gray-700">
           <p>
-            Welcome to DelhiEscorts.in, the capital’s most selective platform for luxury companionship.  
-            We hand-pick only independent, university-educated women who combine stunning looks with sharp intellect and warm, open hearts.  
-            Every profile is selfie-verified and re-approved monthly, guaranteeing that the girl who arrives at your suite is the same flawless beauty you admired online.  
-            Whether you are a busy executive landing at IGIA late tonight, a traveller seeking a plus-one for a cocktail rooftop in Aerocity, or a local gentleman craving genuine chemistry after endless video calls, we create moments that feel effortless, exciting and completely confidential.
+          Welcome to DelhiEscorts.in, the capital’s top spot for affordable call girls in Delhi who are also smart, real and friendly. We pick only university girls and working women who look great and talk sweet. Every photo is a fresh selfie, so the cheap call girl in Delhi who knocks on your door is the same one you liked on the site.
           </p>
 
           <p>
-            Browse high-resolution portfolios, read honest client reviews and chat directly through end-to-end encrypted messages—no brokers, no upsells, no awkward surprises.  
-            Prefer a quiet wine evening at the Lodhi Hotel? A spontaneous drive to Neemrana Fort for sunset selfies? Or perhaps an indulgent four-hand massage followed by strawberries and laughter behind closed doors?  
-            Our companions tailor every encounter around your schedule, fantasies and comfort level, setting clear boundaries and safe-words before the first kiss.  
-            Discretion is woven into every step: your credit-card statement shows a neutral brand name, taxis drop off at lobby side entrances, and selfies taken together are automatically deleted when the date ends.
+           Are you a boss landing late at IGIA, a tourist in an Aerocity hotel, or a Delhi guy tired of boring calls? We give you easy, fun and secret moments without stress. Chat on WhatsApp, see clear escorts service price in Delhi, and fix the call girl price in Delhi before she leaves her home. No broker, no tips, no shocks.
           </p>
 
           <p>
-            Beyond beauty, we value emotional intelligence. Each escort is trained in active listening, etiquette and after-care, ensuring you feel seen, respected and completely relaxed.  
-            Many speak fluent English, Hindi and French, hold degrees in fashion or psychology, and travel internationally on short notice—ideal companions for destination weddings in Udaipur or weekend escapes to Goa.  
-            Rates are transparent, hourly or overnight, with complimentary refreshments and lingerie styling included.  
-            Repeat clients enjoy priority booking, loyalty discounts and access to our private Telegram channel where new tours are announced first.  
-            Ready to meet someone who matches your energy and curiosity? Scroll down, click the WhatsApp button, and let us arrange an encounter that leaves you smiling for days.  
-            Delhi after dark has never felt this welcoming, this safe, this deliciously addictive.
+           Want a quiet wine night at Lodhi Hotel, a quick drive to Neemrana, or a cosy room massage with strawberries? Our affordable escorts in Delhi change the plan as per your mood and time. We keep it secret: your card shows a normal name, cab drops at the side gate, and any selfie is deleted when the meet ends.
           </p>
+          <p>These girls speak good English and Hindi, many know French too, and they can fly with you to Goa or Udaipur for weddings. Rates are simple—hour or full night—and include soft drinks and new lingerie. Old clients get discount and first pick on new girls. Scroll down, tap WhatsApp, and book cheap call girls in Gurgaon or cheap call girls in Noida too. Delhi nights are now safe, easy and super fun.</p>
         </div>
       </div>
     </section>
