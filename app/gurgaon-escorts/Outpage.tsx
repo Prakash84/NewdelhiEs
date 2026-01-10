@@ -114,37 +114,37 @@ const hotelOutlets = [
   },
   {
     title: "Lemon Tree Premier Aerocity",
-    image: "/images/LemonTreePremierAerocity.jpg",
+    image: "/images/LemonTreePremierAerocity.webp",
     description:
       "De-Stress and refresh with Spa Delhi expert therapists who provide personalized spa treatments in the luxurious environment of Lemon Tree Premier.",
   },
   {
     title: "Novotel New Delhi Aerocity",
-    image: "/images/NovotelNewDelhiAerocity.jpeg",
+    image: "/images/NovotelNewDelhiAerocity.webp",
     description:
       "The ultimate relaxation with Spa Delhi massage therapies, a combination of luxury oils and professional skills in the modern space of Novotel.",
   },
   {
     title: "The Grand New Delhi",
-    image: "/images/TheGrandNewDelhi.jpg",
+    image: "/images/TheGrandNewDelhi.webp",
     description:
       "Have a splendid experience of the SpA Delhi massage services that are provided at the Grand New Delhi hotel where you can enjoy total relaxation and wellness in the luxurious surroundings of The Grand.",
   },
   {
     title: "IBIS New Delhi Aerocity",
-    image: "/images/IBISNewDelhiAerocity.jpg",
+    image: "/images/IBISNewDelhiAerocity.webp",
     description:
       "Enjoy Spa Delhi. Have a special massage therapy in IBIS, where masterful care is combined with a relaxing environment to get holistic rejuvenation.",
   },
   {
     title: "The Park Connaught Place",
-    image: "/images/TheParkConnaughtPlace.jpg",
+    image: "/images/TheParkConnaughtPlace.webp",
     description:
       "Find a pleasant getaway with Spa Delhi luxury massages, which relaxes the body and uplift your senses.",
   },
   {
     title: "The Suryaa New Delhi (NFC)",
-    image: "/images/TheSuryaaNewDelhi(NFC).jpg",
+    image: "/images/TheSuryaaNewDelhi(NFC).webp",
     description:
       "Experience Spa Delhi specializes in massage services at The Suryaa, where customers receive personalized well-being and ultimate relaxation in the massage salon.",
   },
