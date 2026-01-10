@@ -37,17 +37,17 @@ export default function Outpage() {
     }
   ];
   const locations1 = [
-  "Bhopal", "Ludhiana", "Delhi", "Varanasi",
-  "Jamshedpur", "Hyderabad", "Chennai", "Rishikesh",
-  "Raipur", "Ghaziabad", "Amritsar", "Surat",
-  "Manali", "Dehradun", "Jammu", "Noida",
-  "Ambala", "Zirakpur", "Allahabad", "Jodhpur",
-  "Kochi", "Lucknow", "Haridwar", "Karnal",
-  "Chandigarh", "Guwahati", "Jaipur", "Indore",
-  "Navi Mumbai", "Ajmer", "Ranchi", "Patna",
-  "Visakhapatnam", "Vadodara", "Mohali", "Daman",
-  "Shimla", "Gurgaon", "Faridabad", "Goa",
-  "Pune", "Dwarka", "Jalandhar"
+  "Delhi Escorts", "Noida Escorts", "Aerocity Escorts", "Gurgaon Escorts",
+  "Mahipalpur Escorts", "Rohini Escorts", "Pritampura Escorts", "Escorts Connaught Place",
+  "Escorts Lajpatnagar", "Escorts Paharganj", "Escorts Dwarka", "Escorts Vasant Kunj",
+  "Escorts Greater Kailash", "Escorts new friends colony", "Escorts Green Park", "Escorts Saket",
+  // "Ambala", "Zirakpur", "Allahabad", "Jodhpur",
+  // "Kochi", "Lucknow", "Haridwar", "Karnal",
+  // "Chandigarh", "Guwahati", "Jaipur", "Indore",
+  // "Navi Mumbai", "Ajmer", "Ranchi", "Patna",
+  // "Visakhapatnam", "Vadodara", "Mohali", "Daman",
+  // "Shimla", "Gurgaon", "Faridabad", "Goa",
+  // "Pune", "Dwarka", "Jalandhar"
 ];
 const faqs = [
     {
@@ -110,49 +110,49 @@ const hotelOutlets = [
     title: "JW Marriott Hotel Aerocity",
     image: "/images/JW Marriott Hotel Aerocity.webp",
     description:
-      "Spa Delhi is a hotel where one can indulge in luxurious massage therapies and enjoy the wellness experience in high-end comfort.",
+      "Need Gurgaon escorts at JW Marriott Aerocity? We deliver in 20 min, no lobby stop; our escort service in Gurgaon girls carry hotel pass.",
   },
   {
     title: "Lemon Tree Premier Aerocity",
     image: "/images/LemonTreePremierAerocity.webp",
     description:
-      "De-Stress and refresh with Spa Delhi expert therapists who provide personalized spa treatments in the luxurious environment of Lemon Tree Premier.",
+      "Staying Lemon Tree Premier? WhatsApp for Noida escorts or Gurgaon escorts; escort service in Gurgaon reaches fast, cash after meet.",
   },
   {
     title: "Novotel New Delhi Aerocity",
     image: "/images/NovotelNewDelhiAerocity.webp",
     description:
-      "The ultimate relaxation with Spa Delhi massage therapies, a combination of luxury oils and professional skills in the modern space of Novotel.",
+      "Novotel guests love our Gurgaon escorts; call and girl knocks in 25 min, escort service in Gurgaon keeps full privacy.",
   },
   {
     title: "The Grand New Delhi",
     image: "/images/TheGrandNewDelhi.webp",
     description:
-      "Have a splendid experience of the SpA Delhi massage services that are provided at the Grand New Delhi hotel where you can enjoy total relaxation and wellness in the luxurious surroundings of The Grand.",
+      "The Grand New Delhi is covered nightly; Noida escorts or Gurgaon escorts arrive quietly, escort service in Gurgaon handles security.",
   },
   {
     title: "IBIS New Delhi Aerocity",
     image: "/images/IBISNewDelhiAerocity.webp",
     description:
-      "Enjoy Spa Delhi. Have a special massage therapy in IBIS, where masterful care is combined with a relaxing environment to get holistic rejuvenation.",
+      "IBIS Aerocity short stay? Book Gurgaon escorts, pay cash only; escort service in Gurgaon gives real photo choice.",
   },
   {
     title: "The Park Connaught Place",
     image: "/images/TheParkConnaughtPlace.webp",
     description:
-      "Find a pleasant getaway with Spa Delhi luxury massages, which relaxes the body and uplift your senses.",
+      "The Park CP safe for Noida escorts; escort service in Noida sends girl with ID, reaches within 30 min.",
   },
   {
     title: "The Suryaa New Delhi (NFC)",
     image: "/images/TheSuryaaNewDelhi(NFC).webp",
     description:
-      "Experience Spa Delhi specializes in massage services at The Suryaa, where customers receive personalized well-being and ultimate relaxation in the massage salon.",
+      "At Suryaa NFC call our Noida escorts; escort service in Noida covers 24×7, no advance money.",
   },
   {
     title: "The Ashok (Chanakyapuri)",
     image: "/images/TheAshok(Chanakyapuri).webp",
     description:
-      "Relax your body and mind with high-quality spa services at The Ashok, which combines luxurious experiences with a professional approach.",
+      "The Ashok Chanakyapuri guests pick Gurgaon escorts; escort service in Gurgaon brings polite models fast, full night deals.",
   },
 ];
   return (
@@ -270,7 +270,7 @@ Call now, choose your favourite girl, and enjoy fresh company tonight. Repeat cu
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
     >
-      Our 5-Star Hotel Outlets for Massage Spa in Delhi
+      Gurgaon escorts & Noida escorts at these Aerocity hotels tonight
     </motion.h2>
 
     {/* Description */}
@@ -280,7 +280,7 @@ Call now, choose your favourite girl, and enjoy fresh company tonight. Repeat cu
       whileInView={{ opacity: 1 }}
       transition={{ duration: 0.6, delay: 0.2 }}
     >
-      Spa Delhi offers the world standard of wellness to the highest 5-star hotels making sure that the customers experience a personalized massage in a luxurious and serene environment.
+     We deliver Gurgaon escorts and Noida escorts to these Aerocity, CP, Chanakyapuri hotels daily; our escort service in Gurgaon and escort service in Noida is open 24×7, cash on arrival, no advance, so you relax while we bring fun to your room fast.
     </motion.p>
 
     {/* Cards */}
@@ -662,7 +662,7 @@ So next time you feel alone in Gurgaon or Noida, save our number. One text, hot 
                          text-blue-700 font-semibold py-3 rounded-xl
                          transition duration-300 shadow-md"
             >
-              Call Girls in {city}
+               {city}
             </Link>
           ))}
         </div>
