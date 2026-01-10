@@ -108,7 +108,7 @@ const faqs = [
 const hotelOutlets = [
   {
     title: "JW Marriott Hotel Aerocity",
-    image: "/images/JW Marriott Hotel Aerocity.jpg",
+    image: "/images/JW Marriott Hotel Aerocity.webp",
     description:
       "Spa Delhi is a hotel where one can indulge in luxurious massage therapies and enjoy the wellness experience in high-end comfort.",
   },
