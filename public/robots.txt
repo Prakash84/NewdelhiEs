@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Allowed pages
+Allow: /$
+Allow: /about-us
+Allow: /escort-service-in-delhi
+Allow: /independent-escorts-in-delhi
+Allow: /cheap-call-girls-in-delhi
+Allow: /gurgaon-escorts
+Allow: /contact
+
+# Block common private & system paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /login/
+Disallow: /register/
+Disallow: /checkout/
+Disallow: /wp-admin/
+
+# Block all other URLs not listed above
+Disallow: /*?
+
+# Sitemap
+Sitemap: https://www.delhiescort.in/sitemap.xml
