@@ -4,31 +4,31 @@ export default function BlogPage() {
       title: "Why Escort Services in Delhi Are Gaining Popularity",
       desc: "Learn why modern professionals prefer safe and premium escort services in Delhi.",
       tag: "Delhi Escorts",
-      image: "/images/blog/delhi-escort-lifestyle.jpg"
+    //   image: "/images/blog/delhi-escort-lifestyle.jpg"
     },
     {
       title: "Escort Service in Gurgaon – A Premium Lifestyle Choice",
       desc: "Discover how Gurgaon escort services match luxury and professionalism.",
       tag: "Gurgaon Escorts",
-      image: "/images/blog/gurgaon-escort-premium.jpg"
+    //   image: "/images/blog/gurgaon-escort-premium.jpg"
     },
     {
       title: "Noida Escorts – Comfort, Privacy & Convenience",
       desc: "Why Noida escort services are perfect for calm and private experiences.",
       tag: "Noida Escorts",
-      image: "/images/blog/noida-escort-comfort.jpg"
+    //   image: "/images/blog/noida-escort-comfort.jpg"
     },
     {
       title: "How to Choose a Safe & Reliable Escort Service",
       desc: "Essential tips for choosing trusted and discreet escort services.",
       tag: "Safety Guide",
-      image: "/images/blog/escort-safety-guide.jpg"
+    //   image: "/images/blog/escort-safety-guide.jpg"
     },
     {
       title: "Luxury Escort Experience in Delhi NCR",
       desc: "Explore high-end escort experiences across Delhi NCR.",
       tag: "Luxury Escorts",
-      image: "/images/blog/delhi-ncr-luxury-escort.jpg"
+    //   image: "/images/blog/delhi-ncr-luxury-escort.jpg"
     }
   ];
 
@@ -97,11 +97,11 @@ export default function BlogPage() {
               className="bg-neutral-900 border border-neutral-800 rounded-xl overflow-hidden hover:border-pink-500 transition"
             >
               {/* Blog Image */}
-              <img
+              {/* <img
                 src={blog.image}
                 alt={blog.title}
                 className="w-full h-52 object-cover"
-              />
+              /> */}
 
               <div className="p-6">
                 <span className="text-sm text-pink-500">{blog.tag}</span>
