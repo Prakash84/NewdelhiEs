@@ -151,25 +151,38 @@ export default function Abour() {
   ];
   const faqs = [
     {
-      q: "Are prices negotiable?",
-      a: "We offer the best possible first quote. Small adjustments possible on longer bookings (4 hrs+) or repeat clients—ask politely and we’ll try to match your budget.",
+      q: "Are your Delhi escorts real and verified?",
+      a: "Yes, every Delhi escort on our site is met in person, ID-checked and selfie-video verified so you get the same girl you choose.",
     },
     {
-      q: "Is advance payment required?",
-      a: "Zero advance. You pay only when the companion arrives and you are satisfied. No wallet links, no QR codes beforehand—ever.",
+      q: "Which areas do you cover for escort service in Delhi NCR?",
+      a: "We give escort service in Aerocity, Mahipalpur, Dwarka, South Delhi, Gurgaon, Noida and all nearby 5-star hotels.",
     },
     {
-      q: "Does price vary by location?",
-      a: "Yes. Central & south Delhi incur little or no travel fee; Noida & Gurgaon add ₹ 1-2 k depending on distance. Exact amount quoted before you confirm.",
+      q: "How fast can an independent escort in Delhi reach me?",
+      a: "Once confirmed, our independent escort in Delhi reaches your hotel or home within 20-30 minutes.",
     },
     {
-      q: "Are there any hidden charges?",
-      a: "None. Hotel cost (if outcall) and travel (if applicable) are shown upfront. No surprise ‘service tax’, ‘tip’, or ‘agent fee’ later.",
+      q: "Do you offer Russian escorts in Delhi?",
+      a: "Yes, we have genuine Russian escorts in Delhi and other foreigner escorts in Delhi available 24×7.",
     },
     {
-      q: "How do I confirm final pricing?",
-      a: "Send your area, preferred time & duration on WhatsApp. We reply with companion options and locked total price. Reply ‘Yes’ to confirm—done.",
+      q: "Is your Delhi escort service private and safe?",
+      a: "100 % private. We never save client numbers or hotel details; every escort service in Delhi is end-to-end encrypted.",
     },
+    {
+      q:"What is the call girl price in Delhi?",
+      a:"Call girl price in Delhi starts from affordable rates for cheap call girls in Delhi and goes up for high-profile escorts in Delhi—no hidden cost.",
+    },
+    {
+      q:"Can I book cheap call girls in Gurgaon or Noida too?",
+      a:"Yes, we provide cheap call girls in Gurgaon and cheap call girls in Noida with same quick service and safety.",
+    },
+    {
+      q:"Do you have female escorts for five-star hotels?",
+      a:"Sure, our female escorts in Delhi are passport-ready and can walk into Pullman, Novotel, The Lalit, Radisson Blu without any issue.",
+    },
+
   ];
   {/* pricing */}
         const [selectedDuration, setSelectedDuration] = useState('session'); // 'session', 'two', 'night'
@@ -548,7 +561,7 @@ export default function Abour() {
         {/* Heading */}
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-extrabold text-white">
-            Our Discreet Delhi Escort Service Process
+           Discreet Delhi Escort Service in Aerocity Gurgaon Noida Dwarka
           </h2>
 
           <p className="mt-4 max-w-3xl mx-auto text-gray-300 leading-relaxed">
@@ -569,7 +582,7 @@ export default function Abour() {
             </h3>
 
             <p className="text-gray-400 text-sm">
-              All bookings for independent escorts in Delhi are handled privately without sharing any client details.
+            Every Delhi escorts enquiry is handled privately; no name, no number, no hotel detail is ever saved or shared. Our escort service in Delhi uses end-to-end encrypted chat and cash or UPI on arrival, so you relax while we guard your identity forever.
             </p>
           </div>
 
@@ -583,7 +596,7 @@ export default function Abour() {
             </h3>
 
             <p className="text-gray-400 text-sm">
-              Every high-profile escort listed for Delhi escorts is screened and authenticated for safe companionship.
+             Before any independent escorts in Delhi, Russian escorts in Delhi, or high-profile escorts in Delhi goes live, we meet face-to-face, check original ID, shoot fresh selfies and record short video—so the girl who knocks is the girl you picked, every single time.
             </p>
           </div>
 
@@ -597,7 +610,7 @@ export default function Abour() {
             </h3>
 
             <p className="text-gray-400 text-sm">
-              Premium escorts are available in Aerocity, Gurgaon, Noida, Dwarka, Mahipalpur hotels and all VIP Delhi NCR areas.
+              From Aerocity, Mahipalpur, Dwarka, South Delhi to Gurgaon cyber-city and Noida sector-18, our escort service in Delhi NCR covers every five-star hotel, service apartment and VIP guest-house; just drop location pin and we are on the way.
             </p>
           </div>
 
@@ -611,7 +624,7 @@ export default function Abour() {
             </h3>
 
             <p className="text-gray-400 text-sm">
-              Once confirmed, our escort service in Delhi ensures companions reach your location within the promised time.
+             Once booking is locked, the nearest female escort in Delhi jumps into AC cab with Google-shared live route; average reach time is 20-30 minutes to airport hotels, 35 minutes to central Delhi, so you never wait or wonder.
             </p>
           </div>
 
@@ -842,22 +855,13 @@ export default function Abour() {
         {/* Right: Content */}
         <div>
           <h2 className="text-4xl font-extrabold text-zinc-900 mb-4">
-            Experience Delhi Like Never Before
+            Elite Delhi Escorts Service Promise
           </h2>
           <p className="text-zinc-700 leading-relaxed mb-6">
-            Whether you are in town for business or leisure, our premium
-            companions turn ordinary moments into unforgettable memories. Each
-            profile is hand-picked, fully verified and trained to blend into any
-            social setting—be it a five-star gala, a quiet dinner, or a private
-            evening behind closed doors. You set the pace; we deliver the
-            passion, discretion and warmth that make every minute count.
+            Welcome to the capital’s most trusted Delhi escorts team. We promise every guest a smooth, safe and joyful time with real high-profile escorts in Delhi, independent escorts in Delhi, and lovely Russian escorts in Delhi. From Aerocity, Mahipalpur, Dwarka, South Delhi to Gurgaon and Noida, our escort service in Delhi NCR reaches your hotel or home within thirty minutes.
           </p>
           <p className="text-zinc-700 leading-relaxed mb-6">
-            From the vibrant clubs of Connaught Place to the luxury suites of
-            Aerocity, your companion arrives impeccably dressed, conversation-ready
-            and eager to explore the city—or simply explore you. Transparent
-            pricing, zero advance, and 24/7 live support mean you can focus on
-            pleasure while we handle the details.
+           Need a female escort in Delhi for a five-star lobby date? Want an air-hostess escort in Delhi to join a business dinner? Or wish to enjoy a cheap call girl in Delhi without hurting your pocket? We have all options, all verified, all ready. Every profile you see is photo-checked, age-proved and WhatsApp-video confirmed, so the independent call girl in Delhi who knocks is the girl you chose.
           </p>
 
           {/* Icon perks */}
@@ -899,10 +903,10 @@ export default function Abour() {
         <div className="text-center mb-10">
           <p className="text-sm font-medium text-zinc-600 uppercase">About Us — Quick Look</p>
           <h2 id="about-extra-heading" className="mt-3 text-3xl md:text-4xl font-extrabold text-zinc-900">
-            Our Vision, Mission & Values at Spa in Delhi 
+            Delhi Escorts Mission, Vision & Core Values 
           </h2>
           <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
-            We combine luxury hospitality and evidence-based therapies to create a calm, restorative experience for every guest.
+           Premium escort service in Delhi NCR with trust, privacy and high-profile independent escorts every single time.
           </p>
         </div>
 
@@ -914,7 +918,7 @@ export default function Abour() {
             </div>
             <h3 className="text-xl font-semibold text-zinc-900 mb-2">Vision</h3>
             <p className="text-sm text-gray-600">
-              To be the best massage centre in Delhi. All treatments are designed not only to restore your muscles but also to rejuvenate your energy, alleviate stress, and promote overall well-being. Ayurvedic massages, including aromatherapy, are among the methods we use in treatment to heal the body.
+              We dream to become the most loved escort service in Delhi NCR, known for high-profile escorts in Delhi, fair call girl price in Delhi and true privacy. Soon, when anyone searches “best escort service in Delhi”, “female escorts in Delhi” or “independent call girl in Delhi”, our name will be first choice for safe, classy and friendly companionship across capital region.
             </p>
           </article>
 
@@ -925,7 +929,7 @@ export default function Abour() {
             </div>
             <h3 className="text-xl font-semibold text-zinc-900 mb-2">Mission</h3>
             <p className="text-sm text-gray-600">
-              We strive to offer a sense of wellness, relaxation, and rejuvenation to all individuals who enter our doors. Our mission is to provide an environment that combines luxury and affordability and where therapies that are designed to meet the lifestyle of each client are offered.
+              Our mission is to give the best Delhi escorts experience to every guest. From Aerocity to Gurgaon, Noida, Dwarka and South Delhi, we bring verified independent escorts in Delhi and Russian escorts in Delhi to your hotel room quickly, safely and privately. We work 24×7 so you enjoy top escort service in Delhi without stress or delay.
             </p>
           </article>
 
@@ -936,7 +940,7 @@ export default function Abour() {
             </div>
             <h3 className="text-xl font-semibold text-zinc-900 mb-2">Values</h3>
             <p className="text-sm text-gray-600">
-              We are of the opinion that trust forms the basis of any wellness endeavour. This is the reason why Spa Delhi ensures the hygiene, privacy, as well as professionalism. All therapists receive specialized training and each session will be quality checked to maintain a safe, comfortable environment among all of our guests.
+              Truth, privacy and respect are our gems. We never share client data, we never use fake photos, we never cheat on Delhi escort service rates. Whether you pick cheap call girls in Delhi or celebrity escorts in Delhi, you get same honesty, same smile and same on-time arrival anywhere in Mahipalpur, Aerocity, Gurgaon or Noida.
             </p>
           </article>
         </div>
@@ -1151,31 +1155,27 @@ export default function Abour() {
     <section className="bg-white py-16 px-6">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-8 text-center">
-          Premium Independent Escorts in Delhi – Authentic, Discreet, Unforgettable
+         Premium Delhi Escorts & Call Girls Service Across NCR 24/7
         </h1>
 
         <div className="prose prose-lg prose-gray mx-auto leading-relaxed text-gray-700">
           <p>
-            Welcome to DelhiEscorts.in, the capital’s most selective platform for luxury companionship.  
-            We hand-pick only independent, university-educated women who combine stunning looks with sharp intellect and warm, open hearts.  
-            Every profile is selfie-verified and re-approved monthly, guaranteeing that the girl who arrives at your suite is the same flawless beauty you admired online.  
-            Whether you are a busy executive landing at IGIA late tonight, a traveller seeking a plus-one for a cocktail rooftop in Aerocity, or a local gentleman craving genuine chemistry after endless video calls, we create moments that feel effortless, exciting and completely confidential.
+           Looking for the best escort service in Delhi that is fast, safe and really private? You just found us. We are the top-rated Delhi escorts team, active every day and night in Aerocity, Mahipalpur, Dwarka, South Delhi, Connaught Place, Gurgaon and Noida. From airport hotels to your own flat, our escort service in Delhi NCR reaches you in thirty minutes or less.
           </p>
 
           <p>
-            Browse high-resolution portfolios, read honest client reviews and chat directly through end-to-end encrypted messages—no brokers, no upsells, no awkward surprises.  
-            Prefer a quiet wine evening at the Lodhi Hotel? A spontaneous drive to Neemrana Fort for sunset selfies? Or perhaps an indulgent four-hand massage followed by strawberries and laughter behind closed doors?  
-            Our companions tailor every encounter around your schedule, fantasies and comfort level, setting clear boundaries and safe-words before the first kiss.  
-            Discretion is woven into every step: your credit-card statement shows a neutral brand name, taxis drop off at lobby side entrances, and selfies taken together are automatically deleted when the date ends.
+            We offer every type of companion you can dream of: high-profile escorts in Delhi, independent escorts in Delhi, female escorts in Delhi, Russian escorts in Delhi, air-hostess escorts in Delhi and even celebrity escorts in Delhi. If you like foreign beauty, book our foreigner escorts in Delhi or a sweet Russian girl in Delhi who speaks little Hindi but lots of love. College girls, MNC babes, fashion models and independent call girls in Delhi are also waiting on our list.
           </p>
 
           <p>
-            Beyond beauty, we value emotional intelligence. Each escort is trained in active listening, etiquette and after-care, ensuring you feel seen, respected and completely relaxed.  
-            Many speak fluent English, Hindi and French, hold degrees in fashion or psychology, and travel internationally on short notice—ideal companions for destination weddings in Udaipur or weekend escapes to Goa.  
-            Rates are transparent, hourly or overnight, with complimentary refreshments and lingerie styling included.  
-            Repeat clients enjoy priority booking, loyalty discounts and access to our private Telegram channel where new tours are announced first.  
-            Ready to meet someone who matches your energy and curiosity? Scroll down, click the WhatsApp button, and let us arrange an encounter that leaves you smiling for days.  
-            Delhi after dark has never felt this welcoming, this safe, this deliciously addictive.
+            Privacy is our first gift to you. Every Delhi escort booking is handled on encrypted WhatsApp chat; your number and hotel details are deleted after the meeting. No one will ever know you used an escort service in Delhi because our drivers drop the girl at your lobby like a regular guest.
+We hate fake photos. Each independent escort in Delhi, female escort in Delhi and Russian escort in Delhi is met face-to-face, ID-checked and selfie-verified. What you see on screen is who knocks at the door, dressed exactly as you requested.
+Price? We keep it pocket-friendly. You can enjoy cheap call girls in Delhi, affordable call girls in Delhi, affordable escorts in Delhi or cheap escorts in Delhi without bargaining. Clear call girl price in Delhi and escort service price in Delhi is shared on phone; no taxi charge, no surprise tip. VIP clients can pick high-profile call girls in Delhi or celebrity escorts in Delhi and pay a little extra for five-star charm.
+Area coverage is huge. Search “escort service in Aerocity”, “escort service in Gurgaon”, “escort service in Noida”, “escort service in Dwarka”, “escort service in Mahipalpur” or “escort service in South Delhi” and you will find our number on top. We visit Pullman, Novotel, The Lalit, Radisson Blu, Roseate House, Ibis, Holiday Inn and even budget OYO rooms without any fuss.
+Booking is super simple. Open WhatsApp, type “Delhi escorts”, share hotel name or area pin, and we reply with real photos, age, size and exact escort service in Delhi rate. Choose one girl, confirm time and relax. Our driver starts right away and your independent Delhi escort arrives fresh, cheerful and ready to make the evening unforgettable.
+Repeat guests love us because we remember their taste: some like Russian escorts in Delhi, some want air-hostess escorts in Delhi, others prefer cheap call girls in Gurgaon or cheap call girls in Noida when they travel. We keep notes, so next booking is just one emoji away.
+Whether you need a Delhi escort for one hour, full night or a weekend trip to Agra, we arrange travel, stay and return tickets for the girl so you focus only on fun.
+Call now or ping on WhatsApp and feel why thousands say we give the best escort service in Delhi. Genuine girls, fair price, on-time arrival and zero drama—that is our simple promise to every gentleman in the capital.
           </p>
         </div>
       </div>

@@ -37,7 +37,7 @@ export default function BlogPage() {
     <section
   className="relative text-white"
   style={{
-    backgroundImage: "url('/images/download34.webp')",
+    backgroundImage: "url('/images/eyeofgigi.webp')",
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
