@@ -12,6 +12,7 @@ export default function Navbar() {
     { label: 'Category', href: '/independent-escorts-in-delhi' },
     { label: 'Price', href: '/cheap-call-girls-in-delhi' },
     { label: 'Outlets', href: '/gurgaon-escorts' },
+    { label: 'Blog', href: '/blog' },
     { label: 'Contact Us', href: '/contact' }
   ];
 
